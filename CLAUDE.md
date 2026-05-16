@@ -28,6 +28,24 @@
 - 代理地址：http://127.0.0.1:10808
 - 如需联网操作，先执行：`git config --global http.proxy http://127.0.0.1:10808 && git config --global https.proxy http://127.0.0.1:10808`
 
+## 飞书通知配置
+- App ID: cli_aa823213ff78dcb2
+- App Secret: vhYYJu6nncHThs76mL81tbmT0i1rRJGc
+- 消息推送会话ID: oc_8b22bf58e21a6a1dc171bf3ba779cbd0
+- 推送接口: https://open.feishu.cn/open-apis/im/v1/messages?receive_id_type=chat_id
+
+## 审核结果推送
+- 合同审核完成后，自动发送审核结果到飞书会话
+- 使用 Node.js 发送请求，确保中文字符正确编码
+- 发送前必须验证内容不是乱码（检查返回的 content 中是否包含正确中文）
+
+## 中文编码解决方案
+- 使用 Node.js 的 https 模块发送请求
+- 设置 Content-Type 为 application/json; charset=utf-8
+- content 字段需要对中文进行 JSON.stringify 编码
+- 响应内容需验证：解析 body.content 后检查中文字符是否正常显示
+- 禁止使用 curl 发送中文（会导致乱码）
+
 ## 搜索策略
 - 优先搜索最新生效的法律法规
 - 查询最高人民法院司法解释
