@@ -96,3 +96,97 @@
 - 《民法典》第1193条：定作人对选任有过错的，承担相应责任
 - 《合同编》第505条：超越经营范围不影响合同效力
 - 《医疗器械生产监督管理办法》：部分承揽涉及备案程序
+
+---
+
+### 2026-05-17 测试经验总结
+
+**本次测试验证成功的功能**：
+1. ✅ Word文档(.docx)读取 - 使用unzip命令提取文本内容
+2. ✅ 合同结构化分析 - 识别条款、提炼风险点
+3. ✅ 搜狗微信联网检索 - 通过Playwright访问weixin.sogou.com
+4. ✅ 飞书消息推送 - Node.js发送中文内容
+5. ✅ 知识库沉淀 - 审核后将学习成果写入legal_knowledge_base.md
+
+**本次测试发现的问题及解决方案**：
+
+| 问题 | 原因 | 解决方案 |
+|---|---|---|
+| 飞书发送失败（code=99991663） | Token过期 | 每次发送前必须获取新token |
+| 飞书发送失败（code=230002） | 机器人不在群中 | 将应用机器人添加到群聊 |
+| 中文乱码 | 使用curl发送 | 改用Node.js的https模块发送 |
+| 长消息发送失败 | 消息过长 | 分多条发送，每条不超过2000字 |
+| docx文件无法读取 | 直接读取二进制 | 使用unzip -p提取XML再解析 |
+
+**飞书推送关键代码模式**：
+```javascript
+const https = require('https');
+// 1. 获取token
+const getToken = () => new Promise((resolve, reject) => {
+  const req = https.request({
+    hostname: 'open.feishu.cn',
+    path: '/open-apis/auth/v3/tenant_access_token/internal',
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'}
+  }, res => {
+    let body = '';
+    res.on('data', chunk => body += chunk);
+    res.on('end', () => resolve(JSON.parse(body).tenant_access_token));
+  });
+  req.write(JSON.stringify({app_id: 'cli_xxx', app_secret: 'vhx'}));
+  req.end();
+});
+
+// 2. 发送消息
+const sendMsg = (token, text) => new Promise((resolve, reject) => {
+  const data = JSON.stringify({
+    receive_id: 'oc_xxx',
+    msg_type: 'text',
+    content: JSON.stringify({text: text})
+  });
+  const req = https.request({
+    hostname: 'open.feishu.cn',
+    path: '/open-apis/im/v1/messages?receive_id_type=chat_id',
+    method: 'POST',
+    headers: {
+      'Authorization': 'Bearer ' + token,
+      'Content-Type': 'application/json; charset=utf-8',
+      'Content-Length': Buffer.byteLength(data)
+    }
+  }, res => {
+    let body = '';
+    res.on('data', chunk => body += chunk);
+    res.on('end', () => {
+      const json = JSON.parse(body);
+      if (json.code === 0) resolve('发送成功');
+      else reject('失败: code=' + json.code);
+    });
+  });
+  req.write(data);
+  req.end();
+});
+
+// 3. 使用
+getToken().then(token => sendMsg(token, '消息内容'));
+```
+
+**Playwright MCP使用要点**：
+- 导航：`mcp__playwright__browser_navigate({url: '...'})`
+- 截图：`mcp__playwright__browser_take_screenshot({type: 'png'})`
+- 快照：`mcp__playwright__browser_snapshot({depth: 3})`
+- 评估JS：`mcp__playwright__browser_evaluate({function: '() => { ... }'})`
+- 关闭：`mcp__playwright__browser_close()`
+
+**审查报告输出标准格式**：
+```
+【引用原合同条款】
+[条款编号]：[原文内容]
+
+【具体的修改建议】
+修改为："[新条款内容]"
+
+【事实与法律依据】
+[法规名称]第X条：[具体规定] - [适用说明]
+---
+风险等级：🔴高危
+```
