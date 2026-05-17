@@ -1,0 +1,1432 @@
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - link [ref=e7] [cursor=pointer]:
+        - /url: https://aily.feishu.cn/bot?open_from=official_website
+      - button [ref=e15] [cursor=pointer]:
+        - img [ref=e16]
+    - generic [ref=e23]:
+      - link [ref=e25] [cursor=pointer]:
+        - /url: https://www.feishu.cn/
+        - img [ref=e26]
+      - generic [ref=e28]:
+        - generic [ref=e29]:
+          - generic [ref=e30]:
+            - generic [ref=e31]: 案例与方案
+            - img [ref=e33]
+          - img
+        - generic [ref=e35]:
+          - generic [ref=e36]:
+            - generic [ref=e37]: 产品功能
+            - img [ref=e39]
+          - img
+        - generic [ref=e41]:
+          - generic [ref=e42]:
+            - generic [ref=e43]: 飞书 AI
+            - img [ref=e45]
+          - img [ref=e47]
+        - generic [ref=e48]:
+          - generic [ref=e49]:
+            - generic [ref=e50]: 合作与支持
+            - img [ref=e52]
+          - img
+        - generic [ref=e54]:
+          - link "飞行社" [ref=e55] [cursor=pointer]:
+            - /url: https://www.feishu.cn/community?from=feishu_website_header
+            - generic [ref=e56]: 飞行社
+          - img
+        - link "定价" [ref=e58] [cursor=pointer]:
+          - /url: https://www.feishu.cn/service?from=feishu_website_header
+          - generic [ref=e59]: 定价
+          - img [ref=e61]
+      - generic [ref=e66]:
+        - link [ref=e69] [cursor=pointer]:
+          - /url: tel:400-0682-666
+          - img [ref=e70]
+        - link "下载飞书" [ref=e72] [cursor=pointer]:
+          - /url: https://www.feishu.cn/download
+          - generic [ref=e73]: 下载飞书
+        - generic [ref=e74]:
+          - link "联系销售" [ref=e75] [cursor=pointer]:
+            - /url: /landing/feishu_contact_sales?tracking_code=701TL00001EjHx2YAF&from=top_bar_contact_sales
+            - generic [ref=e76]: 联系销售
+          - generic [ref=e77] [cursor=pointer]: 登录/注册
+    - generic [ref=e81]:
+      - generic [ref=e85]:
+        - generic [ref=e91]:
+          - img [ref=e92]
+          - link "体验同款" [ref=e94] [cursor=pointer]:
+            - /url: https://miaoda.feishu.cn/home?open_from=official_website
+            - generic [ref=e95]: 体验同款
+        - generic [ref=e101]:
+          - img [ref=e102]
+          - link "查看回放" [ref=e104] [cursor=pointer]:
+            - /url: https://live.livesaasvolccdn.com/2333/3547130?customer_channel=lead_7632209761022430164
+            - generic [ref=e105]: 查看回放
+        - generic [ref=e111]:
+          - img [ref=e112]
+          - generic [ref=e113]:
+            - link "大会精华" [ref=e114] [cursor=pointer]:
+              - /url: https://project.feishu.cn/home/2026-open-platform-materials?tracking_code=7017632154190319487948
+              - generic [ref=e115]: 大会精华
+            - link "了解详情" [ref=e116] [cursor=pointer]:
+              - /url: https://project.feishu.cn/home/event/2026-open-day?tracking_code=701TL00001bSjNmYAK&utm_from=larkweb
+              - generic [ref=e117]: 了解详情
+        - generic [ref=e123]:
+          - img [ref=e124]
+          - generic [ref=e125]:
+            - link "立即创建" [ref=e126] [cursor=pointer]:
+              - /url: https://openclaw.feishu.cn/onboard/agent_team?open-from=claw_official_website
+              - generic [ref=e127]: 立即创建
+            - link "已有虾，安装飞书插件" [ref=e128] [cursor=pointer]:
+              - /url: https://bytedance.larkoffice.com/docx/MFK7dDFLFoVlOGxWCv5cTXKmnMh
+              - generic [ref=e129]: 已有虾，安装飞书插件
+              - img [ref=e131]
+        - generic [ref=e138]:
+          - img [ref=e139]
+          - link "免费领取" [ref=e141] [cursor=pointer]:
+            - /url: /landing/feishu_meego_2026_manufacturing_white_paper?tracking_code=701TL00001bbLHPYA2
+            - generic [ref=e142]: 免费领取
+        - generic [ref=e148]:
+          - img [ref=e149]
+          - generic [ref=e150]:
+            - link "免费体验" [ref=e151] [cursor=pointer]:
+              - /url: /landing/feishu_aily_2026?tracking_code=701TL00001XAisHYAT
+              - generic [ref=e152]: 免费体验
+            - link "了解详情" [ref=e153] [cursor=pointer]:
+              - /url: https://aily.feishu.cn/universal/landing
+              - generic [ref=e154]: 了解详情
+        - generic [ref=e162]:
+          - link "观看回放" [ref=e166] [cursor=pointer]:
+            - /url: https://future.feishu.cn?from=homepage&live=1&tracking_code=701TL00001X75PFYAZ
+            - generic [ref=e167]: 观看回放
+            - img [ref=e170]
+          - generic [ref=e174]:
+            - heading "2026 飞书新品见面会" [level=2] [ref=e175]
+            - link "点击进入直播间" [ref=e179] [cursor=pointer]:
+              - /url: https://future.feishu.cn?from=homepage&live=1&tracking_code=701TL00001X75PFYAZ
+        - generic [ref=e185]:
+          - img [ref=e186]
+          - generic [ref=e187]:
+            - link "免费试用" [ref=e188] [cursor=pointer]:
+              - /url: https://www.feishu.cn/accounts/page/ug_register?app_id=11&redirect_uri=https%3A%2F%2Fwww.feishu.cn%2Fdownload%3Fafter_ugregister%3D1&tenant_type=3&template_id=7262656438152708100&from=%E5%AE%98%E7%BD%91%E6%B3%A8%E5%86%8C%E6%97%97%E8%88%B0%E7%89%88%E8%AF%95%E7%94%A8
+              - generic [ref=e189]: 免费试用
+            - link "预约咨询" [ref=e190] [cursor=pointer]:
+              - /url: /landing/feishu_contact_sales?tracking_code=701TL00001EvizpYAB&from=homepage_banner
+              - generic [ref=e191]: 预约咨询
+        - generic [ref=e197]:
+          - img [ref=e198]
+          - link "体验同款" [ref=e200] [cursor=pointer]:
+            - /url: https://miaoda.feishu.cn/home?open_from=official_website
+            - generic [ref=e201]: 体验同款
+      - generic [ref=e213]:
+        - link "飞书项目 让复杂项目更简单清晰" [ref=e214] [cursor=pointer]:
+          - /url: https://project.feishu.cn/home/contact?tracking_code=701TL00001EIdVPYA1&from=first_screen_minibanner
+          - generic [ref=e215]:
+            - generic [ref=e216]:
+              - img [ref=e217]
+              - generic [ref=e222]: 飞书项目
+            - generic [ref=e224]:
+              - generic [ref=e225]: 让复杂项目更简单清晰
+              - img [ref=e227]
+        - link "智能会议纪要 申请体验" [ref=e229] [cursor=pointer]:
+          - /url: https://www.feishu.cn/product/ai-meeting-summary?tracking_code=701TL00001EIrepYAD&from=first_screen_minibanner
+          - generic [ref=e230]:
+            - generic [ref=e231]:
+              - img [ref=e232]
+              - generic [ref=e235]: 智能会议纪要
+              - link [ref=e237]:
+                - /url: /product/AI-Application-Maturity-Model
+                - img [ref=e238]
+            - button "申请体验" [ref=e243]:
+              - img [ref=e246]
+              - text: 申请体验
+        - link "飞书多维表格 多维表格 AI 表格" [ref=e248] [cursor=pointer]:
+          - /url: https://www.feishu.cn/product/base?tracking_code=701TL00001EvuhgYAB&from=first_screen_minibanner
+          - generic [ref=e249]:
+            - generic [ref=e250]:
+              - img [ref=e251]
+              - generic [ref=e254]: 飞书多维表格
+            - generic [ref=e256]:
+              - generic [ref=e257]: 多维表格 AI 表格
+              - img [ref=e259]
+        - link "飞书 aily 打造企业 AI Agent" [ref=e261] [cursor=pointer]:
+          - /url: https://www.feishu.cn/landing/feishu_aily_apply_trial?tracking_code=701TL00001EE26LYAT&from=first_screen_minibanner
+          - generic [ref=e262]:
+            - generic [ref=e263]:
+              - img [ref=e264]
+              - generic [ref=e265]: 飞书 aily
+              - link [ref=e267]:
+                - /url: /product/AI-Application-Maturity-Model
+                - img [ref=e268]
+            - generic [ref=e271]:
+              - generic [ref=e272]: 打造企业 AI Agent
+              - img [ref=e274]
+        - link "飞书妙搭 轻量系统 Al 搭建" [ref=e276] [cursor=pointer]:
+          - /url: https://miaoda.feishu.cn/landing?open-from=claw_official_website
+          - generic [ref=e277]:
+            - generic [ref=e278]:
+              - img [ref=e279]
+              - generic [ref=e292]: 飞书妙搭
+              - link [ref=e294]:
+                - /url: /product/AI-Application-Maturity-Model
+                - img [ref=e295]
+            - generic [ref=e298]:
+              - generic [ref=e299]: 轻量系统 Al 搭建
+              - img [ref=e301]
+        - link "飞书知识问答 最懂企业知识 AI 有问必答" [ref=e303] [cursor=pointer]:
+          - /url: https://ask.feishu.cn/?referrer=feishu_website_minibanner
+          - generic [ref=e304]:
+            - generic [ref=e305]:
+              - img [ref=e306]
+              - generic [ref=e310]: 飞书知识问答
+              - link [ref=e312]:
+                - /url: /product/AI-Application-Maturity-Model
+                - img [ref=e313]
+            - generic [ref=e316]:
+              - generic [ref=e317]: 最懂企业知识 AI 有问必答
+              - img [ref=e319]
+    - generic [ref=e321]:
+      - generic [ref=e329]:
+        - generic [ref=e331] [cursor=pointer]: 最佳 AI 实践
+        - generic [ref=e333] [cursor=pointer]: 精选权益
+        - generic [ref=e335] [cursor=pointer]: 明星产品
+        - generic [ref=e337] [cursor=pointer]: 服务与安全
+      - generic [ref=e343]:
+        - heading "将 AI 融入各业务环节" [level=1] [ref=e344]
+        - generic [ref=e349]:
+          - generic [ref=e351]:
+            - generic:
+              - link "获取实践方案" [ref=e353] [cursor=pointer]:
+                - /url: https://ask.feishu.cn?referrer=feishu_website_homepage
+                - generic:
+                  - link "获取实践方案":
+                    - /url: https://ask.feishu.cn?referrer=feishu_website_homepage
+                    - generic:
+                      - generic:
+                        - img
+                    - text: 获取实践方案
+              - link "获取实践方案" [ref=e355] [cursor=pointer]:
+                - /url: /landing/apaas_sku_bonus?tracking_code=701TL00000JbU5sYAF
+                - generic:
+                  - link "获取实践方案":
+                    - /url: /landing/apaas_sku_bonus?tracking_code=701TL00000JbU5sYAF
+                    - generic:
+                      - generic:
+                        - img
+                    - text: 获取实践方案
+              - link "获取实践方案" [ref=e357] [cursor=pointer]:
+                - /url: https://www.feishu.cn/2024people?tracking_code=701TL00000JbLH5YAN
+                - generic:
+                  - link "获取实践方案":
+                    - /url: https://www.feishu.cn/2024people?tracking_code=701TL00000JbLH5YAN
+                    - generic:
+                      - generic:
+                        - img
+                    - text: 获取实践方案
+              - link "获取实践方案" [ref=e359] [cursor=pointer]:
+                - /url: https://project.feishu.cn/home/contact?tracking_code=701TL00000JbaSzYAJ
+                - generic:
+                  - link "获取实践方案":
+                    - /url: https://project.feishu.cn/home/contact?tracking_code=701TL00000JbaSzYAJ
+                    - generic:
+                      - generic:
+                        - img
+                    - text: 获取实践方案
+              - link "获取实践方案" [ref=e361] [cursor=pointer]:
+                - /url: /landing/feishu_future_base_system?tracking_code=701TL00000JjK4TYAV
+                - generic:
+                  - link "获取实践方案":
+                    - /url: /landing/feishu_future_base_system?tracking_code=701TL00000JjK4TYAV
+                    - generic:
+                      - generic:
+                        - img
+                    - text: 获取实践方案
+              - link "获取实践方案" [ref=e363] [cursor=pointer]:
+                - /url: /apaas/keep_funds?tracking_code=701TL00000JbCgtYAF
+                - generic:
+                  - link "获取实践方案":
+                    - /url: /apaas/keep_funds?tracking_code=701TL00000JbCgtYAF
+                    - generic:
+                      - generic:
+                        - img
+                    - text: 获取实践方案
+              - link "获取实践方案" [ref=e365] [cursor=pointer]:
+                - /url: https://ask.feishu.cn?referrer=feishu_website_homepage
+                - generic:
+                  - link "获取实践方案":
+                    - /url: https://ask.feishu.cn?referrer=feishu_website_homepage
+                    - generic:
+                      - generic:
+                        - img
+                    - text: 获取实践方案
+              - link "获取实践方案" [ref=e367] [cursor=pointer]:
+                - /url: /landing/apaas_sku_bonus?tracking_code=701TL00000JbU5sYAF
+                - generic:
+                  - link "获取实践方案":
+                    - /url: /landing/apaas_sku_bonus?tracking_code=701TL00000JbU5sYAF
+                    - generic:
+                      - generic:
+                        - img
+                    - text: 获取实践方案
+              - link "获取实践方案" [ref=e369] [cursor=pointer]:
+                - /url: https://www.feishu.cn/2024people?tracking_code=701TL00000JbLH5YAN
+                - generic:
+                  - link "获取实践方案":
+                    - /url: https://www.feishu.cn/2024people?tracking_code=701TL00000JbLH5YAN
+                    - generic:
+                      - generic:
+                        - img
+                    - text: 获取实践方案
+              - link "获取实践方案" [ref=e371] [cursor=pointer]:
+                - /url: https://project.feishu.cn/home/contact?tracking_code=701TL00000JbaSzYAJ
+                - generic:
+                  - link "获取实践方案":
+                    - /url: https://project.feishu.cn/home/contact?tracking_code=701TL00000JbaSzYAJ
+                    - generic:
+                      - generic:
+                        - img
+                    - text: 获取实践方案
+              - link "获取实践方案" [ref=e373] [cursor=pointer]:
+                - /url: /landing/feishu_future_base_system?tracking_code=701TL00000JjK4TYAV
+                - generic:
+                  - link "获取实践方案":
+                    - /url: /landing/feishu_future_base_system?tracking_code=701TL00000JjK4TYAV
+                    - generic:
+                      - generic:
+                        - img
+                    - text: 获取实践方案
+              - link "获取实践方案" [ref=e375] [cursor=pointer]:
+                - /url: /apaas/keep_funds?tracking_code=701TL00000JbCgtYAF
+                - generic:
+                  - link "获取实践方案":
+                    - /url: /apaas/keep_funds?tracking_code=701TL00000JbCgtYAF
+                    - generic:
+                      - generic:
+                        - img
+                    - text: 获取实践方案
+              - link "获取实践方案" [ref=e377] [cursor=pointer]:
+                - /url: https://ask.feishu.cn?referrer=feishu_website_homepage
+                - generic:
+                  - link "获取实践方案":
+                    - /url: https://ask.feishu.cn?referrer=feishu_website_homepage
+                    - generic:
+                      - generic:
+                        - img
+                    - text: 获取实践方案
+            - button [ref=e378] [cursor=pointer]:
+              - img [ref=e380]
+            - button [ref=e382] [cursor=pointer]:
+              - img [ref=e384]
+          - img [ref=e389] [cursor=pointer]
+          - img [ref=e394] [cursor=pointer]
+      - generic [ref=e402]:
+        - img [ref=e403]
+        - img [ref=e404]
+        - img [ref=e405]
+        - img [ref=e406]
+        - img [ref=e407]
+        - img [ref=e408]
+        - img [ref=e409]
+        - img [ref=e410]
+      - generic [ref=e416]:
+        - paragraph [ref=e418]: 为先进企业精选权益
+        - generic [ref=e427]:
+          - link "企业级 AI 应用开发平台 体验行业领先的豆包大模型能力" [ref=e428] [cursor=pointer]:
+            - /url: /landing/feishu_aily_dlpage?tracking_code=701TL00000BQVuhYAH
+            - generic [ref=e429]:
+              - img [ref=e431]
+              - generic [ref=e432]:
+                - generic [ref=e433]: 企业级 AI 应用开发平台
+                - generic [ref=e434]:
+                  - generic [ref=e435]: 体验行业领先的豆包大模型能力
+                  - img [ref=e437]
+          - link "新一代智能业务系统 多维表格 AI 表格" [ref=e439] [cursor=pointer]:
+            - /url: /landing/feishu_future_base_system?tracking_code=701TL00000JX3DuYAL
+            - generic [ref=e440]:
+              - img [ref=e442]
+              - generic [ref=e443]:
+                - generic [ref=e444]: 新一代智能业务系统
+                - generic [ref=e445]:
+                  - generic [ref=e446]: 多维表格 AI 表格
+                  - img [ref=e448]
+          - link "飞书项目 IPD 解决方案 新产品最高 50 天免费试用" [ref=e450] [cursor=pointer]:
+            - /url: https://project.feishu.cn/home/ipd-form?tracking_code=701TL00000JWgSdYAL
+            - generic [ref=e451]:
+              - img [ref=e453]
+              - generic [ref=e454]:
+                - generic [ref=e455]: 飞书项目 IPD 解决方案
+                - generic [ref=e456]:
+                  - generic [ref=e457]: 新产品最高 50 天免费试用
+                  - img [ref=e459]
+        - generic [ref=e469]:
+          - link [ref=e470] [cursor=pointer]:
+            - /url: /landing/feishu_future_ai_2025?tracking_code=701TL00000ohplgYAA
+            - img [ref=e475]
+          - link [ref=e476] [cursor=pointer]:
+            - /url: https://events.feishu.cn/7371707527425196033/guest-invitation/preposition#/?tracking_code=701TL00000Jub3ZYAR
+            - img [ref=e481]
+    - generic [ref=e486]:
+      - heading "字节跳动旗下 AI 工作平台" [level=1] [ref=e487]
+      - generic [ref=e492]:
+        - generic [ref=e500]:
+          - generic [ref=e501]:
+            - generic [ref=e502]:
+              - generic [ref=e504]: 协同办公
+              - generic [ref=e505]:
+                - link "知识问答 最懂企业知识 AI 有问必答" [ref=e506] [cursor=pointer]:
+                  - /url: https://ask.feishu.cn?referrer=feishu_website_homepage
+                  - img [ref=e508]
+                  - generic [ref=e509]:
+                    - generic [ref=e510]:
+                      - heading "知识问答" [level=2] [ref=e511]
+                      - link [ref=e513]:
+                        - /url: /product/AI-Application-Maturity-Model
+                        - img [ref=e514]
+                    - generic [ref=e516]: 最懂企业知识 AI 有问必答
+                - link "智能会议纪要 让每场会议都变 数字资产" [ref=e517] [cursor=pointer]:
+                  - /url: /product/ai-meeting-summary
+                  - img [ref=e519]
+                  - generic [ref=e520]:
+                    - generic [ref=e521]:
+                      - heading "智能会议纪要" [level=2] [ref=e522]
+                      - link [ref=e524]:
+                        - /url: /product/AI-Application-Maturity-Model
+                        - img [ref=e525]
+                    - generic [ref=e528]: 让每场会议都变 数字资产
+                - link "即时消息 极致高效传递信息" [ref=e529] [cursor=pointer]:
+                  - /url: /product/messenger
+                  - img [ref=e531]
+                  - generic [ref=e532]:
+                    - heading "即时消息" [level=2] [ref=e534]
+                    - generic [ref=e535]: 极致高效传递信息
+                - link "视频会议 线上会议如临现场" [ref=e536] [cursor=pointer]:
+                  - /url: /product/video
+                  - img [ref=e538]
+                  - generic [ref=e539]:
+                    - heading "视频会议" [level=2] [ref=e541]
+                    - generic [ref=e542]: 线上会议如临现场
+                - link "云文档 多人实时编辑共创" [ref=e543] [cursor=pointer]:
+                  - /url: /product/docs
+                  - img [ref=e545]
+                  - generic [ref=e546]:
+                    - heading "云文档" [level=2] [ref=e548]
+                    - generic [ref=e549]: 多人实时编辑共创
+                - link "知识库 知识持续创造价值" [ref=e550] [cursor=pointer]:
+                  - /url: /product/wiki
+                  - img [ref=e552]
+                  - generic [ref=e553]:
+                    - heading "知识库" [level=2] [ref=e555]
+                    - generic [ref=e556]: 知识持续创造价值
+                - link "邮箱 邮件信息灵活分享" [ref=e557] [cursor=pointer]:
+                  - /url: /product/email
+                  - img [ref=e559]
+                  - generic [ref=e560]:
+                    - heading "邮箱" [level=2] [ref=e562]
+                    - generic [ref=e563]: 邮件信息灵活分享
+                - link "审批 高效透明加速管理" [ref=e564] [cursor=pointer]:
+                  - /url: /product/approval
+                  - img [ref=e566]
+                  - generic [ref=e567]:
+                    - heading "审批" [level=2] [ref=e569]
+                    - generic [ref=e570]: 高效透明加速管理
+                - link "任务 大事小事有始有终" [ref=e571] [cursor=pointer]:
+                  - /url: /product/task
+                  - img [ref=e573]
+                  - generic [ref=e574]:
+                    - heading "任务" [level=2] [ref=e576]
+                    - generic [ref=e577]: 大事小事有始有终
+            - generic [ref=e578]:
+              - generic [ref=e579]:
+                - generic [ref=e581]: 业务提效
+                - generic [ref=e582]:
+                  - link "多维表格 轻松搭建业务系统" [ref=e583] [cursor=pointer]:
+                    - /url: /product/base
+                    - img [ref=e585]
+                    - generic [ref=e586]:
+                      - heading "多维表格" [level=2] [ref=e588]
+                      - generic [ref=e589]: 轻松搭建业务系统
+                  - link "飞书项目 让复杂项目更 简单清晰" [ref=e590] [cursor=pointer]:
+                    - /url: https://project.feishu.cn/home
+                    - img [ref=e592]
+                    - generic [ref=e593]:
+                      - heading "飞书项目" [level=2] [ref=e595]
+                      - generic [ref=e596]: 让复杂项目更 简单清晰
+                  - link "飞书 aPaaS 智能系统开发 AI 全程助力" [ref=e597] [cursor=pointer]:
+                    - /url: https://ae.feishu.cn/home?from=feishu_home_nonlogin
+                    - img [ref=e599]
+                    - generic [ref=e600]:
+                      - heading "飞书 aPaaS" [level=2] [ref=e602]
+                      - generic [ref=e603]: 智能系统开发 AI 全程助力
+                  - link "飞书 aily 打造企业 AI Agent" [ref=e604] [cursor=pointer]:
+                    - /url: https://aily.feishu.cn/universal/landing
+                    - img [ref=e606]
+                    - generic [ref=e607]:
+                      - generic [ref=e608]:
+                        - heading "飞书 aily" [level=2] [ref=e609]
+                        - link [ref=e611]:
+                          - /url: /product/AI-Application-Maturity-Model
+                          - img [ref=e612]
+                      - generic [ref=e614]: 打造企业 AI Agent
+                  - link "飞书妙搭 轻量系统 AI 搭建" [ref=e615] [cursor=pointer]:
+                    - /url: https://miaoda.feishu.cn/landing
+                    - img [ref=e617]
+                    - generic [ref=e618]:
+                      - generic [ref=e619]:
+                        - heading "飞书妙搭" [level=2] [ref=e620]
+                        - link [ref=e622]:
+                          - /url: /product/AI-Application-Maturity-Model
+                          - img [ref=e623]
+                      - generic [ref=e625]: 轻量系统 AI 搭建
+                  - link "飞书集成平台 让 AI 与业务系统 无缝协作" [ref=e626] [cursor=pointer]:
+                    - /url: https://anycross.feishu.cn/
+                    - img [ref=e628]
+                    - generic [ref=e629]:
+                      - heading "飞书集成平台" [level=2] [ref=e631]
+                      - generic [ref=e632]: 让 AI 与业务系统 无缝协作
+              - generic [ref=e633]:
+                - generic [ref=e635]: 组织管理
+                - generic [ref=e636]:
+                  - link "飞书招聘 精准招聘合适人才" [ref=e637] [cursor=pointer]:
+                    - /url: https://hire.feishu.cn/
+                    - img [ref=e639]
+                    - generic [ref=e640]:
+                      - heading "飞书招聘" [level=2] [ref=e641]
+                      - generic [ref=e642]: 精准招聘合适人才
+                  - link "飞书绩效 激励人才加速成长" [ref=e643] [cursor=pointer]:
+                    - /url: /product/performance
+                    - img [ref=e645]
+                    - generic [ref=e646]:
+                      - heading "飞书绩效" [level=2] [ref=e647]
+                      - generic [ref=e648]: 激励人才加速成长
+                  - link "飞书人事 识别组织优质人才" [ref=e649] [cursor=pointer]:
+                    - /url: /product/corehr
+                    - img [ref=e651]
+                    - generic [ref=e652]:
+                      - heading "飞书人事" [level=2] [ref=e653]
+                      - generic [ref=e654]: 识别组织优质人才
+          - link [ref=e656] [cursor=pointer]:
+            - /url: /product/feishuai
+            - img [ref=e657]
+        - generic [ref=e662]:
+          - text: 飞书发布业界首个 AI 应用成熟度模型
+          - link "立即了解" [ref=e664] [cursor=pointer]:
+            - /url: /product/AI-Application-Maturity-Model
+            - text: 立即了解
+            - img [ref=e666]
+      - link "联系我们了解更多" [ref=e677] [cursor=pointer]:
+        - /url: /salessupport?tracking_code=701TL00000KWhZNYA1
+    - generic [ref=e678]:
+      - generic [ref=e684]:
+        - generic [ref=e685]:
+          - heading "各行业先进企业的 共同选择" [level=1] [ref=e686]
+          - generic [ref=e687]:
+            - img [ref=e690] [cursor=pointer]
+            - img [ref=e694] [cursor=pointer]
+        - generic [ref=e697]:
+          - generic [ref=e702]:
+            - img [ref=e704]
+            - img [ref=e705]
+            - generic [ref=e706]:
+              - generic [ref=e707]: 向飞
+              - generic [ref=e708]: 三一集团 副总裁、人力资源总监
+          - generic [ref=e713]:
+            - img [ref=e715]
+            - img [ref=e716]
+            - generic [ref=e717]:
+              - generic [ref=e718]: 高静
+              - generic [ref=e719]: 联影医疗 部件事业部总裁
+          - generic [ref=e724]:
+            - img [ref=e726]
+            - img [ref=e727]
+            - generic [ref=e728]:
+              - generic [ref=e729]: 周浩运
+              - generic [ref=e730]: 海底捞 首席技术官
+          - generic [ref=e735]:
+            - img [ref=e737]
+            - img [ref=e738]
+            - generic [ref=e739]:
+              - generic [ref=e740]: 潘天鸿
+              - generic [ref=e741]: 影视飓风 创始人
+          - generic [ref=e746]:
+            - img [ref=e748]
+            - img [ref=e749]
+            - generic [ref=e750]:
+              - generic [ref=e751]: 周斌
+              - generic [ref=e752]: 太平洋健康险 副总经理
+          - generic [ref=e757]:
+            - img [ref=e761]
+            - img [ref=e763]
+            - generic [ref=e764]:
+              - generic [ref=e765]: 李斌
+              - generic [ref=e766]: 蔚来汽车董事长、CEO
+            - generic [ref=e767]:
+              - generic [ref=e768]:
+                - generic [ref=e769]: 零代码超市降本增效
+                - generic [ref=e770]:
+                  - generic [ref=e771]: "5500"
+                  - generic [ref=e772]: 万元
+              - paragraph [ref=e774]: 如果没有飞书帮助整个组织提升效率，我们不可能在产业的竞争中生存下来
+          - generic [ref=e779]:
+            - img [ref=e781]
+            - img [ref=e782]
+            - generic [ref=e783]:
+              - generic [ref=e784]: 向飞
+              - generic [ref=e785]: 三一集团 副总裁、人力资源总监
+          - generic [ref=e790]:
+            - img [ref=e792]
+            - img [ref=e793]
+            - generic [ref=e794]:
+              - generic [ref=e795]: 高静
+              - generic [ref=e796]: 联影医疗 部件事业部总裁
+          - generic [ref=e801]:
+            - img [ref=e803]
+            - img [ref=e804]
+            - generic [ref=e805]:
+              - generic [ref=e806]: 周浩运
+              - generic [ref=e807]: 海底捞 首席技术官
+          - generic [ref=e812]:
+            - img [ref=e814]
+            - img [ref=e815]
+            - generic [ref=e816]:
+              - generic [ref=e817]: 潘天鸿
+              - generic [ref=e818]: 影视飓风 创始人
+          - generic [ref=e823]:
+            - img [ref=e825]
+            - img [ref=e826]
+            - generic [ref=e827]:
+              - generic [ref=e828]: 周斌
+              - generic [ref=e829]: 太平洋健康险 副总经理
+      - generic [ref=e834]:
+        - generic [ref=e835]:
+          - generic [ref=e836]:
+            - paragraph [ref=e837]: 小鹏、理想、物美、海底捞...
+            - heading "AI 时代，先进企业为何选择飞书？" [level=1] [ref=e838]
+          - link "定制企业提效方案" [ref=e840] [cursor=pointer]:
+            - /url: /activities/improve_efficiency
+            - img [ref=e843]
+            - text: 定制企业提效方案
+        - img [ref=e846] [cursor=pointer]
+      - generic [ref=e852]:
+        - generic [ref=e857]:
+          - generic [ref=e859]:
+            - generic:
+              - link "运输物流 获客有道、履约有效；管理提质、协作增收 查看案例 查看案例 查看案例 查看案例 查看案例 查看案例 敬请期待 查看案例 查看案例 查看案例 查看案例 查看案例" [ref=e865] [cursor=pointer]:
+                - /url: /customers?tag=运输物流
+                - generic [ref=e866]:
+                  - generic [ref=e867]:
+                    - paragraph [ref=e868]: 运输物流
+                    - img [ref=e870]
+                  - paragraph [ref=e872]: 获客有道、履约有效；管理提质、协作增收
+                - generic [ref=e876]:
+                  - generic [ref=e880]:
+                    - img [ref=e881]
+                    - link "查看案例" [ref=e883]:
+                      - /url: https://www.chinapost.com.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e887]:
+                    - img [ref=e888]
+                    - link "查看案例" [ref=e890]:
+                      - /url: https://www.jtexpress.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e894]:
+                    - img [ref=e895]
+                    - link "查看案例" [ref=e897]:
+                      - /url: https://www.yundaex.com/cn/index.php?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e901]:
+                    - img [ref=e902]
+                    - link "查看案例" [ref=e904]:
+                      - /url: http://www.800best.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e908]:
+                    - img [ref=e909]
+                    - link "查看案例" [ref=e911]:
+                      - /url: http://www.huolala.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e915]:
+                    - img [ref=e916]
+                    - link "查看案例" [ref=e918]:
+                      - /url: http://www.link-trans.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e922]:
+                    - img [ref=e923]
+                    - generic [ref=e925]: 敬请期待
+                  - generic [ref=e929]:
+                    - img [ref=e930]
+                    - link "查看案例" [ref=e932]:
+                      - /url: https://www.g7e6.com.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e936]:
+                    - img [ref=e937]
+                    - link "查看案例" [ref=e939]:
+                      - /url: https://www.winit.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e943]:
+                    - img [ref=e944]
+                    - link "查看案例" [ref=e946]:
+                      - /url: https://www.ztn.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e950]:
+                    - img [ref=e951]
+                    - link "查看案例" [ref=e953]:
+                      - /url: https://www.360lion.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e957]:
+                    - img [ref=e958]
+                    - link "查看案例" [ref=e960]:
+                      - /url: https://www.bondex.com.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+              - link "金融行业 极致业技融合深入数字化 查看案例 查看案例 查看案例 查看案例 查看案例 查看案例 查看案例 敬请期待 查看案例 查看案例 查看案例 查看案例" [ref=e966] [cursor=pointer]:
+                - /url: /customers?tag=金融行业
+                - generic [ref=e967]:
+                  - generic [ref=e968]:
+                    - paragraph [ref=e969]: 金融行业
+                    - img [ref=e971]
+                  - paragraph [ref=e973]: 极致业技融合深入数字化
+                - generic [ref=e977]:
+                  - generic [ref=e981]:
+                    - img [ref=e982]
+                    - link "查看案例" [ref=e984]:
+                      - /url: https://www.taikang.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e988]:
+                    - img [ref=e989]
+                    - link "查看案例" [ref=e991]:
+                      - /url: http://health.cpic.com.cn/jkx/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e995]:
+                    - img [ref=e996]
+                    - link "查看案例" [ref=e998]:
+                      - /url: http://www.minshenglife.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1002]:
+                    - img [ref=e1003]
+                    - link "查看案例" [ref=e1005]:
+                      - /url: http://xueqiu.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1009]:
+                    - img [ref=e1010]
+                    - link "查看案例" [ref=e1012]:
+                      - /url: https://sourcecodecap.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1016]:
+                    - img [ref=e1017]
+                    - link "查看案例" [ref=e1019]:
+                      - /url: https://www.hnzycfc.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1023]:
+                    - img [ref=e1024]
+                    - link "查看案例" [ref=e1026]:
+                      - /url: http://www.ebvc.com.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1030]:
+                    - img [ref=e1031]
+                    - generic [ref=e1033]: 敬请期待
+                  - generic [ref=e1037]:
+                    - img [ref=e1038]
+                    - link "查看案例" [ref=e1040]:
+                      - /url: https://cgvcap.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1044]:
+                    - img [ref=e1045]
+                    - link "查看案例" [ref=e1047]:
+                      - /url: https://www.kysec.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1051]:
+                    - img [ref=e1052]
+                    - link "查看案例" [ref=e1054]:
+                      - /url: http://www.plumventures.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1058]:
+                    - img [ref=e1059]
+                    - link "查看案例" [ref=e1061]:
+                      - /url: http://www.yingmi.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+              - link "医疗健康 瞄准提效靶点、打造医药行业敏捷组织 查看案例 查看案例 查看案例 敬请期待 查看案例 查看案例 查看案例 查看案例 查看案例 查看案例 查看案例 查看案例" [ref=e1067] [cursor=pointer]:
+                - /url: /customers?tag=医疗健康
+                - generic [ref=e1068]:
+                  - generic [ref=e1069]:
+                    - paragraph [ref=e1070]: 医疗健康
+                    - img [ref=e1072]
+                  - paragraph [ref=e1074]: 瞄准提效靶点、打造医药行业敏捷组织
+                - generic [ref=e1078]:
+                  - generic [ref=e1082]:
+                    - img [ref=e1083]
+                    - link "查看案例" [ref=e1085]:
+                      - /url: http://www.united-imaging.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1089]:
+                    - img [ref=e1090]
+                    - link "查看案例" [ref=e1092]:
+                      - /url: https://www.cttq.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1096]:
+                    - img [ref=e1097]
+                    - link "查看案例" [ref=e1099]:
+                      - /url: https://www.junshipharma.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1103]:
+                    - img [ref=e1104]
+                    - generic [ref=e1106]: 敬请期待
+                  - generic [ref=e1110]:
+                    - img [ref=e1111]
+                    - link "查看案例" [ref=e1113]:
+                      - /url: http://www.yangzijiang.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1117]:
+                    - img [ref=e1118]
+                    - link "查看案例" [ref=e1120]:
+                      - /url: https://www.porton.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1124]:
+                    - img [ref=e1125]
+                    - link "查看案例" [ref=e1127]:
+                      - /url: https://www.intcomedical.com.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1131]:
+                    - img [ref=e1132]
+                    - link "查看案例" [ref=e1134]:
+                      - /url: http://www.dymind.com.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1138]:
+                    - img [ref=e1139]
+                    - link "查看案例" [ref=e1141]:
+                      - /url: https://www.gensci-china.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1145]:
+                    - img [ref=e1146]
+                    - link "查看案例" [ref=e1148]:
+                      - /url: https://www.micro-tech.com.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1152]:
+                    - img [ref=e1153]
+                    - link "查看案例" [ref=e1155]:
+                      - /url: http://www.sonoscape.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1159]:
+                    - img [ref=e1160]
+                    - link "查看案例" [ref=e1162]:
+                      - /url: https://www.ystwt.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+              - link "制造行业 拉通生产全链路的生产协作 查看案例 查看案例 查看案例 敬请期待 查看案例 查看案例 查看案例 查看案例 查看案例 查看案例 查看案例 查看案例" [ref=e1168] [cursor=pointer]:
+                - /url: /customers?tag=制造行业
+                - generic [ref=e1169]:
+                  - generic [ref=e1170]:
+                    - paragraph [ref=e1171]: 制造行业
+                    - img [ref=e1173]
+                  - paragraph [ref=e1175]: 拉通生产全链路的生产协作
+                - generic [ref=e1179]:
+                  - generic [ref=e1183]:
+                    - img [ref=e1184]
+                    - link "查看案例" [ref=e1186]:
+                      - /url: https://www.haier.com/cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1190]:
+                    - img [ref=e1191]
+                    - link "查看案例" [ref=e1193]:
+                      - /url: https://www.sany.com.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1197]:
+                    - img [ref=e1198]
+                    - link "查看案例" [ref=e1200]:
+                      - /url: https://www.mi.com/index.html?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1204]:
+                    - img [ref=e1205]
+                    - generic [ref=e1207]: 敬请期待
+                  - generic [ref=e1211]:
+                    - img [ref=e1212]
+                    - link "查看案例" [ref=e1214]:
+                      - /url: http://www.anker-in.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1218]:
+                    - img [ref=e1219]
+                    - link "查看案例" [ref=e1221]:
+                      - /url: http://www.transsion.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1225]:
+                    - img [ref=e1226]
+                    - link "查看案例" [ref=e1228]:
+                      - /url: https://www.chint.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1232]:
+                    - img [ref=e1233]
+                    - link "查看案例" [ref=e1235]:
+                      - /url: https://www.gongniu.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1239]:
+                    - img [ref=e1240]
+                    - link "查看案例" [ref=e1242]:
+                      - /url: http://www.landspace.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1246]:
+                    - img [ref=e1247]
+                    - link "查看案例" [ref=e1249]:
+                      - /url: https://www.hailiangstock.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1253]:
+                    - img [ref=e1254]
+                    - link "查看案例" [ref=e1256]:
+                      - /url: http://www.insta360.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1260]:
+                    - img [ref=e1261]
+                    - link "查看案例" [ref=e1263]:
+                      - /url: https://www.zmj.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+              - link "智能出行 打造车企数字化智慧底座 查看案例 查看案例 查看案例 查看案例 查看案例 查看案例 查看案例 敬请期待 查看案例 查看案例 查看案例 查看案例" [ref=e1269] [cursor=pointer]:
+                - /url: /customers?tag=智能出行
+                - generic [ref=e1270]:
+                  - generic [ref=e1271]:
+                    - paragraph [ref=e1272]: 智能出行
+                    - img [ref=e1274]
+                  - paragraph [ref=e1276]: 打造车企数字化智慧底座
+                - generic [ref=e1280]:
+                  - generic [ref=e1284]:
+                    - img [ref=e1285]
+                    - link "查看案例" [ref=e1287]:
+                      - /url: https://www.lotuscars.com.cn/?pc_logo_link=01&utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1291]:
+                    - img [ref=e1292]
+                    - link "查看案例" [ref=e1294]:
+                      - /url: https://www.lixiang.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu#li
+                  - generic [ref=e1298]:
+                    - img [ref=e1299]
+                    - link "查看案例" [ref=e1301]:
+                      - /url: https://www.nio.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1305]:
+                    - img [ref=e1306]
+                    - link "查看案例" [ref=e1308]:
+                      - /url: https://www.xiaopeng.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1312]:
+                    - img [ref=e1313]
+                    - link "查看案例" [ref=e1315]:
+                      - /url: https://www.wuling.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1319]:
+                    - img [ref=e1320]
+                    - link "查看案例" [ref=e1322]:
+                      - /url: http://www.baicgroup.com.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1326]:
+                    - img [ref=e1327]
+                    - link "查看案例" [ref=e1329]:
+                      - /url: http://www.jac.com.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1333]:
+                    - img [ref=e1334]
+                    - generic [ref=e1336]: 敬请期待
+                  - generic [ref=e1340]:
+                    - img [ref=e1341]
+                    - link "查看案例" [ref=e1343]:
+                      - /url: http://www.voyah.com.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1347]:
+                    - img [ref=e1348]
+                    - link "查看案例" [ref=e1350]:
+                      - /url: https://www.mi.com/index.html?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1354]:
+                    - img [ref=e1355]
+                    - link "查看案例" [ref=e1357]:
+                      - /url: http://www.desaysv.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1361]:
+                    - img [ref=e1362]
+                    - link "查看案例" [ref=e1364]:
+                      - /url: http://www.xyl.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+              - link "消费行业 撬动消费增长新杠杆 敬请期待 查看案例 查看案例 查看案例 查看案例 查看案例 查看案例 敬请期待 查看案例 查看案例 查看案例 查看案例" [ref=e1370] [cursor=pointer]:
+                - /url: /customers?tag=消费行业
+                - generic [ref=e1371]:
+                  - generic [ref=e1372]:
+                    - paragraph [ref=e1373]: 消费行业
+                    - img [ref=e1375]
+                  - paragraph [ref=e1377]: 撬动消费增长新杠杆
+                - generic [ref=e1381]:
+                  - generic [ref=e1385]:
+                    - img [ref=e1386]
+                    - generic [ref=e1388]: 敬请期待
+                  - generic [ref=e1392]:
+                    - img [ref=e1393]
+                    - link "查看案例" [ref=e1395]:
+                      - /url: https://www.proya-group.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1399]:
+                    - img [ref=e1400]
+                    - link "查看案例" [ref=e1402]:
+                      - /url: http://www.yuanqisenlin.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1406]:
+                    - img [ref=e1407]
+                    - link "查看案例" [ref=e1409]:
+                      - /url: https://www.bluemoon.com.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1413]:
+                    - img [ref=e1414]
+                    - link "查看案例" [ref=e1416]:
+                      - /url: https://www.hla.com.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1420]:
+                    - img [ref=e1421]
+                    - link "查看案例" [ref=e1423]:
+                      - /url: https://www.popmart.com.cn/home?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1427]:
+                    - img [ref=e1428]
+                    - link "查看案例" [ref=e1430]:
+                      - /url: https://www.maogepingbeauty.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1434]:
+                    - img [ref=e1435]
+                    - generic [ref=e1437]: 敬请期待
+                  - generic [ref=e1441]:
+                    - img [ref=e1442]
+                    - link "查看案例" [ref=e1444]:
+                      - /url: http://www.septwolves.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1448]:
+                    - img [ref=e1449]
+                    - link "查看案例" [ref=e1451]:
+                      - /url: https://www.bananain.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1455]:
+                    - img [ref=e1456]
+                    - link "查看案例" [ref=e1458]:
+                      - /url: https://www.babycare.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1462]:
+                    - img [ref=e1463]
+                    - link "查看案例" [ref=e1465]:
+                      - /url: http://www.3songshu.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+              - link "餐饮行业 加速业务数字化、助力餐饮新增长 查看案例 查看案例 敬请期待 查看案例 查看案例 查看案例 敬请期待 查看案例 查看案例 查看案例 查看案例 敬请期待" [ref=e1471] [cursor=pointer]:
+                - /url: /customers?tag=餐饮行业
+                - generic [ref=e1472]:
+                  - generic [ref=e1473]:
+                    - paragraph [ref=e1474]: 餐饮行业
+                    - img [ref=e1476]
+                  - paragraph [ref=e1478]: 加速业务数字化、助力餐饮新增长
+                - generic [ref=e1482]:
+                  - generic [ref=e1486]:
+                    - img [ref=e1487]
+                    - link "查看案例" [ref=e1489]:
+                      - /url: https://www.haidilao.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1493]:
+                    - img [ref=e1494]
+                    - link "查看案例" [ref=e1496]:
+                      - /url: http://www.xibei.com.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1500]:
+                    - img [ref=e1501]
+                    - generic [ref=e1503]: 敬请期待
+                  - generic [ref=e1507]:
+                    - img [ref=e1508]
+                    - link "查看案例" [ref=e1510]:
+                      - /url: http://www.bwcjchina.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1514]:
+                    - img [ref=e1515]
+                    - link "查看案例" [ref=e1517]:
+                      - /url: https://www.chabaidao.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1521]:
+                    - img [ref=e1522]
+                    - link "查看案例" [ref=e1524]:
+                      - /url: http://www.hsayi.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1528]:
+                    - img [ref=e1529]
+                    - generic [ref=e1531]: 敬请期待
+                  - generic [ref=e1535]:
+                    - img [ref=e1536]
+                    - link "查看案例" [ref=e1538]:
+                      - /url: http://www.banu.cn/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1542]:
+                    - img [ref=e1543]
+                    - link "查看案例" [ref=e1545]:
+                      - /url: https://www.nhuoguo.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1549]:
+                    - img [ref=e1550]
+                    - link "查看案例" [ref=e1552]:
+                      - /url: http://www.hefumian.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1556]:
+                    - img [ref=e1557]
+                    - link "查看案例" [ref=e1559]:
+                      - /url: http://www.51kuafu.com/?utm_source=feishu&utm_medium=feishu.cn&utm_campaign=free_backlinks_from_feishu&utm_content=blogs&utm_term=feishu
+                  - generic [ref=e1563]:
+                    - img [ref=e1564]
+                    - generic [ref=e1566]: 敬请期待
+            - button [ref=e1567] [cursor=pointer]:
+              - img [ref=e1569]
+            - button [ref=e1571] [cursor=pointer]:
+              - img [ref=e1573]
+          - img [ref=e1578] [cursor=pointer]
+          - img [ref=e1583] [cursor=pointer]
+        - link "了解更多客户案例" [ref=e1590] [cursor=pointer]:
+          - /url: /customers
+    - generic [ref=e1591]:
+      - generic [ref=e1599]:
+        - paragraph [ref=e1600]: 全程陪伴服务体系 全面助力企业成功
+        - generic [ref=e1608]:
+          - generic [ref=e1609]:
+            - generic [ref=e1611]:
+              - generic [ref=e1612]:
+                - generic [ref=e1613]: 企业效能顾问
+                - img [ref=e1616]
+              - generic [ref=e1619]: 定位组织问题 制定效能提升方案
+            - generic [ref=e1621]:
+              - generic [ref=e1622]:
+                - generic [ref=e1623]: AI+人工服务
+                - img [ref=e1626]
+              - generic [ref=e1628]: 7*24h 在线客服解答
+          - generic [ref=e1629]:
+            - generic [ref=e1631]:
+              - generic [ref=e1632]:
+                - generic [ref=e1633]: 技术支持
+                - img [ref=e1635]
+              - generic [ref=e1637]: 工作时段 一对一在线支持
+            - generic [ref=e1639]:
+              - generic [ref=e1640]:
+                - generic [ref=e1641]: 咨询服务
+                - img [ref=e1644]
+              - generic [ref=e1646]: 提供组织管理升级 咨询服务
+            - generic [ref=e1648]:
+              - generic [ref=e1649]:
+                - generic [ref=e1650]: 帮助中心
+                - img [ref=e1653]
+              - generic [ref=e1655]: 员工自助答疑 降低企业运营成本
+            - generic [ref=e1657]:
+              - generic [ref=e1658]:
+                - generic [ref=e1659]: 迁移服务
+                - img [ref=e1662]
+              - generic [ref=e1665]: 专业团队全程陪伴 数字化基建充分利旧
+      - generic [ref=e1678]:
+        - generic [ref=e1679]:
+          - generic [ref=e1680]: 对标国内和国际最⾼标准安全合规要求
+          - paragraph [ref=e1681]: 为企业安全保驾护航 助力企业扬帆出海
+        - generic [ref=e1682]:
+          - generic [ref=e1683]:
+            - generic [ref=e1687]:
+              - generic [ref=e1688]:
+                - generic [ref=e1689]: 全方位安全体系
+                - generic [ref=e1690]: 为业务保驾护航
+              - img [ref=e1691]
+            - generic [ref=e1695]:
+              - generic [ref=e1696]:
+                - generic [ref=e1697]: 全球布局，助力企业
+                - generic [ref=e1698]: 构建统一工作平台
+              - img [ref=e1699]
+          - generic [ref=e1703]:
+            - generic [ref=e1704]:
+              - generic [ref=e1705]: 权威监管认证
+              - paragraph [ref=e1706]: 跨境解决方案由飞书及飞书海外版 Lark 提供 部分认证由 Lark 取得
+            - img [ref=e1707]
+    - generic [ref=e1714]:
+      - heading "为您的企业选择最佳方案" [level=2] [ref=e1715]
+      - generic [ref=e1720]:
+        - link "免费系列 ￥ 0 人/月 了解详情 初创团队协作首选 适合 100 人以内的小型团队，日常协作高效愉悦 即时消息 云文档 视频会议 多维表格 免费邮箱" [ref=e1724] [cursor=pointer]:
+          - /url: /service?from=index_free
+          - generic [ref=e1725]:
+            - generic [ref=e1726]:
+              - img [ref=e1727]
+              - heading "免费系列" [level=3] [ref=e1728]
+            - generic [ref=e1730]:
+              - generic [ref=e1731]: ￥
+              - generic [ref=e1732]: "0"
+              - generic [ref=e1733]: 人/月
+            - link "了解详情" [ref=e1734]:
+              - /url: /service?from=index_free
+              - generic [ref=e1735]:
+                - generic [ref=e1736]: 了解详情
+                - img [ref=e1738]
+            - generic [ref=e1740]:
+              - generic [ref=e1741]:
+                - heading "初创团队协作首选" [level=3] [ref=e1742]
+                - generic [ref=e1743]: 适合 100 人以内的小型团队，日常协作高效愉悦
+              - generic [ref=e1744]:
+                - generic [ref=e1745]:
+                  - img [ref=e1746]
+                  - generic [ref=e1748]: 即时消息
+                - generic [ref=e1749]:
+                  - img [ref=e1750]
+                  - generic [ref=e1752]: 云文档
+                - generic [ref=e1753]:
+                  - img [ref=e1754]
+                  - generic [ref=e1756]: 视频会议
+                - generic [ref=e1757]:
+                  - img [ref=e1758]
+                  - generic [ref=e1760]: 多维表格
+                - generic [ref=e1761]:
+                  - img [ref=e1762]
+                  - generic [ref=e1764]: 免费邮箱
+        - link "商业系列 ￥ 50 起 人/月 了解详情 业务管理更进一步 适合 500 人以内的成长型企业，全面实现组织协同和管理效能提升 包含基础免费版能力 24 小时视频会议时长 50-500 方视频会议 500GB-5TB 云端存储空间" [ref=e1768] [cursor=pointer]:
+          - /url: /service?from=index_business
+          - generic [ref=e1769]:
+            - generic [ref=e1770]:
+              - img [ref=e1771]
+              - heading "商业系列" [level=3] [ref=e1772]
+            - generic [ref=e1774]:
+              - generic [ref=e1775]: ￥
+              - generic [ref=e1776]: "50"
+              - generic [ref=e1777]: 起
+              - generic [ref=e1778]: 人/月
+            - link "了解详情" [ref=e1779]:
+              - /url: /service?from=index_business
+              - generic [ref=e1780]:
+                - generic [ref=e1781]: 了解详情
+                - img [ref=e1783]
+            - generic [ref=e1785]:
+              - generic [ref=e1786]:
+                - heading "业务管理更进一步" [level=3] [ref=e1787]
+                - generic [ref=e1788]: 适合 500 人以内的成长型企业，全面实现组织协同和管理效能提升
+              - generic [ref=e1789]:
+                - generic [ref=e1790]:
+                  - img [ref=e1791]
+                  - generic [ref=e1793]: 包含基础免费版能力
+                - generic [ref=e1794]:
+                  - img [ref=e1795]
+                  - generic [ref=e1797]: 24 小时视频会议时长
+                - generic [ref=e1798]:
+                  - img [ref=e1799]
+                  - generic [ref=e1801]: 50-500 方视频会议
+                - generic [ref=e1802]:
+                  - img [ref=e1803]
+                  - generic [ref=e1805]: 500GB-5TB 云端存储空间
+        - link "企业系列 400-0682-666 了解详情 先进企业的最佳选择 先进企业首选，全面安全护航，轻松打造企业数字总部 1000 方视频会议 全面的安全合规能力 复杂组织架构管理能力 企业品牌定制能力" [ref=e1809] [cursor=pointer]:
+          - /url: /service?from=index_enterprise
+          - generic [ref=e1810]:
+            - generic [ref=e1811]:
+              - img [ref=e1812]
+              - heading "企业系列" [level=3] [ref=e1813]
+            - generic [ref=e1815]:
+              - img [ref=e1817]
+              - generic [ref=e1819]: 400-0682-666
+            - link "了解详情" [ref=e1820]:
+              - /url: /service?from=index_enterprise
+              - generic [ref=e1821]:
+                - generic [ref=e1822]: 了解详情
+                - img [ref=e1824]
+            - generic [ref=e1826]:
+              - generic [ref=e1827]:
+                - heading "先进企业的最佳选择" [level=3] [ref=e1828]
+                - generic [ref=e1829]: 先进企业首选，全面安全护航，轻松打造企业数字总部
+              - generic [ref=e1830]:
+                - generic [ref=e1831]:
+                  - img [ref=e1832]
+                  - generic [ref=e1834]: 1000 方视频会议
+                - generic [ref=e1835]:
+                  - img [ref=e1836]
+                  - generic [ref=e1838]: 全面的安全合规能力
+                - generic [ref=e1839]:
+                  - img [ref=e1840]
+                  - generic [ref=e1842]: 复杂组织架构管理能力
+                - generic [ref=e1843]:
+                  - img [ref=e1844]
+                  - generic [ref=e1846]: 企业品牌定制能力
+      - link "查看版本对比详情" [ref=e1852] [cursor=pointer]:
+        - /url: /service?from=enterprise
+    - generic [ref=e1857]:
+      - heading "海量学习资源 飞书助力员工成为效率高手" [level=2] [ref=e1858]
+      - iframe [ref=e1865]:
+        - generic [ref=f1e9]:
+          - link "【直播】飞书大讲堂——飞书妙搭「妙搭万物」直播课 【直播】飞书大讲堂——飞书妙搭「妙搭万物」直播课 3节课 50 里程" [ref=f1e11] [cursor=pointer]:
+            - /url: /community/course?hideHeader=1&hideRecommend=1&hideTitle=1&hideMore=1&rowCount=1&in_ex_frame=1&from=lark_website_version1&not_mobile=1&id=7576878403953888190
+            - img "【直播】飞书大讲堂——飞书妙搭「妙搭万物」直播课" [ref=f1e13]
+            - generic [ref=f1e14]:
+              - heading "【直播】飞书大讲堂——飞书妙搭「妙搭万物」直播课" [level=3] [ref=f1e16]
+              - generic [ref=f1e17]:
+                - generic [ref=f1e18]:
+                  - img [ref=f1e21]
+                  - generic [ref=f1e25]: 3节课
+                - generic [ref=f1e27]: 50 里程
+          - link "大制造 AI 小宇宙（播客频道） 大制造 AI 小宇宙（播客频道） 45节课 40 里程" [ref=f1e29] [cursor=pointer]:
+            - /url: /community/course?hideHeader=1&hideRecommend=1&hideTitle=1&hideMore=1&rowCount=1&in_ex_frame=1&from=lark_website_version1&not_mobile=1&id=7566549341626187780
+            - img "大制造 AI 小宇宙（播客频道）" [ref=f1e31]
+            - generic [ref=f1e32]:
+              - heading "大制造 AI 小宇宙（播客频道）" [level=3] [ref=f1e34]
+              - generic [ref=f1e35]:
+                - generic [ref=f1e36]:
+                  - img [ref=f1e39]
+                  - generic [ref=f1e43]: 45节课
+                - generic [ref=f1e45]: 40 里程
+          - link "飞书项目直播课 · 新品发布专场：飞书项目 AI、度量 3.0与轻应用 飞书项目直播课 · 新品发布专场：飞书项目 AI、度量 3.0与轻应用 3节课 30 里程" [ref=f1e47] [cursor=pointer]:
+            - /url: /community/course?hideHeader=1&hideRecommend=1&hideTitle=1&hideMore=1&rowCount=1&in_ex_frame=1&from=lark_website_version1&not_mobile=1&id=7548272932674158611
+            - img "飞书项目直播课 · 新品发布专场：飞书项目 AI、度量 3.0与轻应用" [ref=f1e49]
+            - generic [ref=f1e50]:
+              - heading "飞书项目直播课 · 新品发布专场：飞书项目 AI、度量 3.0与轻应用" [level=3] [ref=f1e52]
+              - generic [ref=f1e53]:
+                - generic [ref=f1e54]:
+                  - img [ref=f1e57]
+                  - generic [ref=f1e61]: 3节课
+                - generic [ref=f1e63]: 30 里程
+          - link "你为什么总写不好提示词？高质量 AI 提示词写作技巧分享 你为什么总写不好提示词？高质量 AI 提示词写作技巧分享 2节课 20 里程" [ref=f1e65] [cursor=pointer]:
+            - /url: /community/course?hideHeader=1&hideRecommend=1&hideTitle=1&hideMore=1&rowCount=1&in_ex_frame=1&from=lark_website_version1&not_mobile=1&id=7536430329897533442
+            - img "你为什么总写不好提示词？高质量 AI 提示词写作技巧分享" [ref=f1e67]
+            - generic [ref=f1e68]:
+              - heading "你为什么总写不好提示词？高质量 AI 提示词写作技巧分享" [level=3] [ref=f1e70]
+              - generic [ref=f1e71]:
+                - generic [ref=f1e72]:
+                  - img [ref=f1e75]
+                  - generic [ref=f1e79]: 2节课
+                - generic [ref=f1e81]: 20 里程
+      - link "获取更多社区资源" [ref=e1871] [cursor=pointer]:
+        - /url: /community/courses?from=lark_website
+    - generic [ref=e1881]:
+      - img [ref=e1883]
+      - generic [ref=e1897]: 欢迎联系我们，飞书效能顾问将为您提供全力支持
+      - generic [ref=e1898]:
+        - generic [ref=e1899]:
+          - img [ref=e1900]
+          - generic [ref=e1903]: 分享先进工作方式
+        - generic [ref=e1904]:
+          - img [ref=e1905]
+          - generic [ref=e1908]: 输送行业最佳实践
+        - generic [ref=e1909]:
+          - img [ref=e1910]
+          - generic [ref=e1913]: 全面协助组织提效
+      - generic [ref=e1914]:
+        - link "联系我们" [ref=e1915] [cursor=pointer]:
+          - /url: /salessupport?from=bottom_banner
+          - generic [ref=e1919]: 联系我们
+        - link "下载飞书" [ref=e1920] [cursor=pointer]:
+          - /url: /download?from=bottom_banner
+          - generic [ref=e1924]: 下载飞书
+    - generic [ref=e1926]:
+      - generic [ref=e1927]:
+        - generic [ref=e1928]:
+          - paragraph [ref=e1929]: 飞书产品
+          - generic [ref=e1931]:
+            - link "飞书 aily" [ref=e1932] [cursor=pointer]:
+              - /url: https://aily.feishu.cn/universal/landing?from=feishu_home_nav
+              - generic [ref=e1933]: 飞书 aily
+              - img [ref=e1936]
+            - link "多维表格" [ref=e1938] [cursor=pointer]:
+              - /url: /product/base
+              - generic [ref=e1939]: 多维表格
+            - link "飞书项目" [ref=e1940] [cursor=pointer]:
+              - /url: https://project.feishu.cn/home
+              - generic [ref=e1941]: 飞书项目
+            - link "即时消息" [ref=e1942] [cursor=pointer]:
+              - /url: /product/messenger
+              - generic [ref=e1943]: 即时消息
+            - link "文档" [ref=e1944] [cursor=pointer]:
+              - /url: /product/docs
+              - generic [ref=e1945]: 文档
+            - link "视频会议" [ref=e1946] [cursor=pointer]:
+              - /url: /product/video
+              - generic [ref=e1947]: 视频会议
+            - link "妙记" [ref=e1948] [cursor=pointer]:
+              - /url: /product/minutes
+              - generic [ref=e1949]: 妙记
+            - link "知识库" [ref=e1950] [cursor=pointer]:
+              - /url: /product/wiki
+              - generic [ref=e1951]: 知识库
+        - generic [ref=e1952]:
+          - paragraph [ref=e1953]: 解决方案
+          - generic [ref=e1955]:
+            - link "制造" [ref=e1956] [cursor=pointer]:
+              - /url: /industry_solutions/manufacturing
+              - generic [ref=e1957]: 制造
+            - link "消费品" [ref=e1958] [cursor=pointer]:
+              - /url: /industry_solutions/consumption
+              - generic [ref=e1959]: 消费品
+            - link "零售" [ref=e1960] [cursor=pointer]:
+              - /url: /industry_solutions/retail
+              - generic [ref=e1961]: 零售
+            - link "金融" [ref=e1962] [cursor=pointer]:
+              - /url: /industry_solutions/finance
+              - generic [ref=e1963]: 金融
+            - link "餐饮" [ref=e1964] [cursor=pointer]:
+              - /url: /industry_solutions/catering
+              - generic [ref=e1965]: 餐饮
+            - link "医疗" [ref=e1966] [cursor=pointer]:
+              - /url: /industry_solutions/healthcare
+              - generic [ref=e1967]: 医疗
+            - link "企业服务" [ref=e1968] [cursor=pointer]:
+              - /url: /industry_solutions/saas
+              - generic [ref=e1969]: 企业服务
+            - link "汽车" [ref=e1970] [cursor=pointer]:
+              - /url: /industry_solutions/automobile
+              - generic [ref=e1971]: 汽车
+        - generic [ref=e1972]:
+          - paragraph [ref=e1973]: 定价
+          - generic [ref=e1975]:
+            - link "版本对比" [ref=e1976] [cursor=pointer]:
+              - /url: /service?from=feishu_website_footer
+              - generic [ref=e1977]: 版本对比
+            - link "购买咨询" [ref=e1978] [cursor=pointer]:
+              - /url: javascript:;
+              - generic [ref=e1979]: 购买咨询
+        - generic [ref=e1980]:
+          - paragraph [ref=e1981]: 探索飞书
+          - generic [ref=e1983]:
+            - link "加入我们" [ref=e1984] [cursor=pointer]:
+              - /url: https://www.feishu.cn/jobs?_tracking=feishu_from_feishushouye
+              - generic [ref=e1985]: 加入我们
+            - link "关于飞书" [ref=e1986] [cursor=pointer]:
+              - /url: /about
+              - generic [ref=e1987]: 关于飞书
+            - link "博客中心" [ref=e1988] [cursor=pointer]:
+              - /url: /content
+              - generic [ref=e1989]: 博客中心
+            - link "飞书研习社" [ref=e1990] [cursor=pointer]:
+              - /url: /research
+              - generic [ref=e1991]: 飞书研习社
+            - link "飞书认证官" [ref=e1992] [cursor=pointer]:
+              - /url: /certification
+              - generic [ref=e1993]: 飞书认证官
+            - link "公益计划" [ref=e1994] [cursor=pointer]:
+              - /url: /charity
+              - generic [ref=e1995]: 公益计划
+            - link "生态快讯" [ref=e1996] [cursor=pointer]:
+              - /url: /partnernews
+              - generic [ref=e1997]: 生态快讯
+            - link "飞行社" [ref=e1998] [cursor=pointer]:
+              - /url: /community?from=feishu_website_footer
+              - generic [ref=e1999]: 飞行社
+              - img [ref=e2000]
+        - generic [ref=e2001]:
+          - paragraph [ref=e2002]: 合作与支持
+          - generic [ref=e2004]:
+            - link "帮助中心" [ref=e2005] [cursor=pointer]:
+              - /url: /hc
+              - generic [ref=e2006]: 帮助中心
+            - link "开放平台" [ref=e2007] [cursor=pointer]:
+              - /url: https://open.feishu.cn/
+              - generic [ref=e2008]: 开放平台
+            - link "应用目录" [ref=e2009] [cursor=pointer]:
+              - /url: https://app.feishu.cn/
+              - generic [ref=e2010]: 应用目录
+            - link "合作伙伴" [ref=e2011] [cursor=pointer]:
+              - /url: /partners
+              - generic [ref=e2012]: 合作伙伴
+            - link "联系我们" [ref=e2013] [cursor=pointer]:
+              - /url: /contact
+              - generic [ref=e2014]: 联系我们
+            - link "更新日志" [ref=e2015] [cursor=pointer]:
+              - /url: https://www.feishu.cn/hc/zh-CN/articles/360043073734
+              - generic [ref=e2016]: 更新日志
+            - link "管理后台" [ref=e2017] [cursor=pointer]:
+              - /url: https://www.feishu.cn/admin
+              - generic [ref=e2018]: 管理后台
+            - link "友情链接" [ref=e2019] [cursor=pointer]:
+              - /url: /friend_links
+              - generic [ref=e2020]: 友情链接
+            - link "举报与反馈" [ref=e2021] [cursor=pointer]:
+              - /url: /complaint
+              - generic [ref=e2022]: 举报与反馈
+        - generic [ref=e2023]:
+          - paragraph [ref=e2024]: 法律与合规
+          - generic [ref=e2025]:
+            - generic [ref=e2026]:
+              - link "服务协议" [ref=e2027] [cursor=pointer]:
+                - /url: /terms
+                - generic [ref=e2028]: 服务协议
+              - link "隐私政策" [ref=e2029] [cursor=pointer]:
+                - /url: /privacy
+                - generic [ref=e2030]: 隐私政策
+              - link "平台行为守则" [ref=e2031] [cursor=pointer]:
+                - /url: /privacy-code-of-conduct
+                - generic [ref=e2032]: 平台行为守则
+              - link "安全合规" [ref=e2033] [cursor=pointer]:
+                - /url: /security
+                - generic [ref=e2034]: 安全合规
+            - generic [ref=e2035]:
+              - link "下载飞书" [ref=e2036] [cursor=pointer]:
+                - /url: /download
+                - img [ref=e2037]
+                - generic [ref=e2038]: 下载飞书
+              - link "联系顾问" [ref=e2039] [cursor=pointer]:
+                - /url: /salessupport?from=feishu_website_footer
+                - img [ref=e2040]
+                - generic [ref=e2041]: 联系顾问
+      - generic [ref=e2043]:
+        - generic [ref=e2044]:
+          - link [ref=e2045] [cursor=pointer]:
+            - /url: /
+            - img [ref=e2046]
+          - link [ref=e2047] [cursor=pointer]:
+            - /url: javascript:;
+            - img [ref=e2048]
+          - link [ref=e2049] [cursor=pointer]:
+            - /url: https://weibo.com/u/7223713567
+            - img [ref=e2050]
+          - link [ref=e2051] [cursor=pointer]:
+            - /url: https://www.zhihu.com/org/fei-shu-27-96/activities
+            - img [ref=e2052]
+          - link [ref=e2053] [cursor=pointer]:
+            - /url: https://www.toutiao.com/c/user/3073831497904140/
+            - img [ref=e2054]
+          - link [ref=e2055] [cursor=pointer]:
+            - /url: https://www.xiaohongshu.com/user/profile/62f09aef000000001f0076d3?xhsshare=CopyLink&appuid=5571317c3f95a333d87b579b&apptime=1675018819
+            - img [ref=e2056]
+          - link [ref=e2057] [cursor=pointer]:
+            - /url: https://space.bilibili.com/1880331212
+            - img [ref=e2058]
+        - generic [ref=e2059]:
+          - img [ref=e2061]
+          - generic [ref=e2064]: 反馈给飞书 CEO：
+          - link "ceo@feishu.cn" [ref=e2065] [cursor=pointer]:
+            - /url: mailto:ceo@feishu.cn
+      - generic [ref=e2066]:
+        - generic [ref=e2067]:
+          - link "Copyright © 2026 北京飞书科技有限公司" [ref=e2068] [cursor=pointer]:
+            - /url: javascript:;
+            - generic [ref=e2069]: Copyright © 2026 北京飞书科技有限公司
+          - link "京ICP备16045432号-4" [ref=e2070] [cursor=pointer]:
+            - /url: https://beian.miit.gov.cn/
+            - generic [ref=e2071]: 京ICP备16045432号-4
+          - link "京公网安备 11010802029085号" [ref=e2072] [cursor=pointer]:
+            - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802029085
+            - img [ref=e2073]
+            - generic [ref=e2074]: 京公网安备 11010802029085号
+          - link "增值电信业务经营许可证：京B2-20190249" [ref=e2075] [cursor=pointer]:
+            - /url: https://tsm.miit.gov.cn/dxxzsp/
+            - generic [ref=e2076]: 增值电信业务经营许可证：京B2-20190249
+        - generic [ref=e2078]:
+          - img [ref=e2080]
+          - generic [ref=e2082]:
+            - text: 更改地区-简体中文
+            - img [ref=e2084]
+  - generic [ref=e2086]:
+    - img [ref=e2089] [cursor=pointer]
+    - generic [ref=e2097] [cursor=pointer]:
+      - img [ref=e2098]
+      - generic [ref=e2100]: 购买

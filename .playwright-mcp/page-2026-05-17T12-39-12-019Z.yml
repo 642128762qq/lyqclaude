@@ -1,0 +1,355 @@
+- generic [active] [ref=e1]:
+  - link "欢迎进入 产品设计合同 承揽合同 审查要点 知识产权归属的相关微信公众号文章 – 搜狗微信搜索,盲人用户进入智能盲道请按快捷键Ctrl+Alt+R；阅读详细操作说明请按快捷键Ctrl+Alt+问号键。":
+    - /url: javascript:void(0)
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - link "无障碍" [ref=e4] [cursor=pointer]:
+        - /url: javascript:void(0)
+      - link "登录" [ref=e5] [cursor=pointer]:
+        - /url: javascript:void(0);
+    - generic [ref=e6]:
+      - link "回到搜狗首页" [ref=e7] [cursor=pointer]:
+        - /url: /
+      - list [ref=e8]:
+        - listitem [ref=e9]:
+          - link "资讯" [ref=e10] [cursor=pointer]:
+            - /url: https://www.sogou.com/sogou?ie=utf8&p=40230447&interation=1728053249&interV=&pid=sogou-wsse-7050094b04fd9aa3&query=产品设计合同 承揽合同 审查要点 知识产权归属
+        - listitem [ref=e11]:
+          - link "网页" [ref=e12] [cursor=pointer]:
+            - /url: http://www.sogou.com/web?ie=utf8&query=产品设计合同 承揽合同 审查要点 知识产权归属
+        - listitem [ref=e13]:
+          - link "微信" [ref=e14]:
+            - /url: javascript:void(0)
+        - listitem [ref=e15]:
+          - link "知乎" [ref=e16] [cursor=pointer]:
+            - /url: http://zhihu.sogou.com/zhihu?ie=utf8&p=73351201&query=产品设计合同 承揽合同 审查要点 知识产权归属
+        - listitem [ref=e17]:
+          - link "图片" [ref=e18] [cursor=pointer]:
+            - /url: http://pic.sogou.com/pics?ie=utf8&p=40230504&query=产品设计合同 承揽合同 审查要点 知识产权归属
+        - listitem [ref=e19]:
+          - link "视频" [ref=e20] [cursor=pointer]:
+            - /url: https://v.sogou.com/v?ie=utf8&p=40230608&query=产品设计合同 承揽合同 审查要点 知识产权归属
+        - listitem [ref=e21]:
+          - link "医疗" [ref=e22] [cursor=pointer]:
+            - /url: https://www.sogou.com/web?m2web=mingyi.sogou.com&ie=utf8&query=产品设计合同 承揽合同 审查要点 知识产权归属
+        - listitem [ref=e23]:
+          - link "汉语" [ref=e24] [cursor=pointer]:
+            - /url: https://hanyu.sogou.com/result?query=产品设计合同 承揽合同 审查要点 知识产权归属
+        - listitem [ref=e25]:
+          - link "翻译" [ref=e26] [cursor=pointer]:
+            - /url: https://fanyi.sogou.com/text?ie=utf8&keyword=产品设计合同 承揽合同 审查要点 知识产权归属
+        - listitem [ref=e27]:
+          - link "问问" [ref=e28] [cursor=pointer]:
+            - /url: http://wenwen.sogou.com/s/?ch=weixinsearch&w=产品设计合同 承揽合同 审查要点 知识产权归属
+        - listitem [ref=e29]:
+          - link "百科" [ref=e30] [cursor=pointer]:
+            - /url: https://www.sogou.com/sogou?ie=utf8&insite=baike.sogou.com&pid=sogou-wsse-17737832ac17be52&query=产品设计合同 承揽合同 审查要点 知识产权归属
+        - listitem [ref=e31]:
+          - link "更多>>" [ref=e32] [cursor=pointer]:
+            - /url: http://www.sogou.com/docs/more.htm?v=1
+      - generic [ref=e34]:
+        - generic [ref=e36]:
+          - textbox [ref=e37]: 产品设计合同 承揽合同 审查要点 知识产权归属
+          - link [ref=e38] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - button "搜文章" [ref=e39] [cursor=pointer]
+  - generic [ref=e41]:
+    - generic [ref=e45]: 以下内容来自微信公众平台
+    - generic [ref=e46]:
+      - list [ref=e47]:
+        - listitem [ref=e48]:
+          - link [ref=e50] [cursor=pointer]:
+            - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9IWI_6aJXwWHPsGWTpOIIUDzrPywU-J12j--UhjRCbdmxv_dZliwQl0W-LPz42q8_-uRGMgaEYCTuHJqODqZ0IVySqBzoV153SLF6pKu9bhXK8gCs0jXftV9GWIOE5KtTScgxmy07qSiw50BKv6VmstE-EAs5TSWspEnT1eafJoff3q8uRDTfkw..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+            - img [ref=e51]
+          - generic [ref=e52]:
+            - heading "以三观分析法,梳理「承揽合同」起草审查的15个要点" [level=3] [ref=e53]:
+              - link "以三观分析法,梳理「承揽合同」起草审查的15个要点" [ref=e54] [cursor=pointer]:
+                - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9IWI_6aJXwWHPsGWTpOIIUDzrPywU-J12j--UhjRCbdmxv_dZliwQl0W-LPz42q8_-uRGMgaEYCTuHJqODqZ0IVySqBzoV153SLF6pKu9bhXK8gCs0jXftV9GWIOE5KtTScgxmy07qSiw50BKv6VmstE-EAs5TSWspEnT1eafJoff3q8uRDTfkw..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+                - text: 以三观分析法,梳理「
+                - emphasis [ref=e55]: 承揽合同
+                - text: 」起草
+                - emphasis [ref=e56]: 审查
+                - text: 的15个
+                - emphasis [ref=e57]: 要点
+            - paragraph [ref=e58]:
+              - emphasis [ref=e59]: 知识产权
+              - text: 条款.主要考虑:与定制加工相关的
+              - emphasis [ref=e60]: 知识产权
+              - text: (如
+              - emphasis [ref=e61]: 设计
+              - text: 图... 并非各类
+              - emphasis [ref=e62]: 合同
+              - emphasis [ref=e63]: 审查要点
+              - text: 的简单搜集,而是从实务出发的原创性内容...
+            - generic [ref=e64]:
+              - text: 法天使
+              - generic [ref=e65]: 2023-10-24
+        - listitem [ref=e66]:
+          - link [ref=e68] [cursor=pointer]:
+            - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9ReoTcR1XUaoVYBUBxwW-Uias-6UqTQshEi1TTv01pX-AcGuCZRD2vsX9aa5U3P_-KsBw1TYHIPnx38QA2WWq26R7hYhjY40mmOh3I7RJIVwq4iNZCCKuv7IdXjicIOaACiOgPIT8GZ0xFjpnDCKWUDfiucfKnML0W5dK4ueikxYCn9lOoZLP2Q..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+            - img [ref=e69]
+          - generic [ref=e70]:
+            - heading "委托技术开发合同审查要点" [level=3] [ref=e71]:
+              - link "委托技术开发合同审查要点" [ref=e72] [cursor=pointer]:
+                - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9ReoTcR1XUaoVYBUBxwW-Uias-6UqTQshEi1TTv01pX-AcGuCZRD2vsX9aa5U3P_-KsBw1TYHIPnx38QA2WWq26R7hYhjY40mmOh3I7RJIVwq4iNZCCKuv7IdXjicIOaACiOgPIT8GZ0xFjpnDCKWUDfiucfKnML0W5dK4ueikxYCn9lOoZLP2Q..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+                - text: 委托技术开发
+                - emphasis [ref=e73]: 合同
+                - emphasis [ref=e74]: 审查要点
+            - paragraph [ref=e75]:
+              - text: 委托技术开发
+              - emphasis [ref=e76]: 合同
+              - text: 中的一般
+              - emphasis [ref=e77]: 审查要点
+              - text: (一)相关技术成果的使用与... 《民法典》设置了默认
+              - emphasis [ref=e78]: 归属
+              - text: 规则.在合作开发中,
+              - emphasis [ref=e79]: 知识产权
+              - text: 应当由...
+            - generic [ref=e80]:
+              - text: 宣齐律所
+              - generic [ref=e81]: 2021-7-23
+        - listitem [ref=e82]:
+          - link [ref=e84] [cursor=pointer]:
+            - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9wHgp2EnPrCh2yKs_BBwkHoQyzFlo84deJKTx1wK1qECZRM68Yc7xFOAlJujnAhQ1iaxi0JR497UFCu7JlfDNg7noVx3hIsfz-4-aZQANebKh8xYGPCejqC853NUz5_lBze-H5Api_-T64Y0hiM6Qa2gqx6bLApfqhmTipjcq_jl5Nu7CnoSqqg..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+            - img [ref=e85]
+          - generic [ref=e86]:
+            - heading "广告合同审查要点" [level=3] [ref=e87]:
+              - link "广告合同审查要点" [ref=e88] [cursor=pointer]:
+                - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9wHgp2EnPrCh2yKs_BBwkHoQyzFlo84deJKTx1wK1qECZRM68Yc7xFOAlJujnAhQ1iaxi0JR497UFCu7JlfDNg7noVx3hIsfz-4-aZQANebKh8xYGPCejqC853NUz5_lBze-H5Api_-T64Y0hiM6Qa2gqx6bLApfqhmTipjcq_jl5Nu7CnoSqqg..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+                - text: 广告
+                - emphasis [ref=e89]: 合同
+                - emphasis [ref=e90]: 审查要点
+            - paragraph [ref=e91]:
+              - emphasis [ref=e92]: 合同
+              - text: 主体条款 广告
+              - emphasis [ref=e93]: 合同
+              - text: 的主体包括广告主和广告经营者或广告发布者,对于其基本信息等方面的
+              - emphasis [ref=e94]: 审查
+              - text: ",务必达到全面精准的要求.在广告"
+              - emphasis [ref=e95]: 合同
+              - text: 中...标的条款 广告
+              - emphasis [ref=e96]: 合同
+              - text: 的标的,是指广告经营者或广告发布者承担的具体工作内容,可以是广告
+              - emphasis [ref=e97]: 设计
+              - text: 、制作、发布中的一项或者是多项.实践中常见的问题是...质量条款 广告
+              - emphasis [ref=e98]: 合同
+              - text: 的质量条款也取决于广告
+              - emphasis [ref=e99]: 合同
+              - text: 的标的,在广告
+              - emphasis [ref=e100]: 设计
+              - text: 阶段,由于
+              - emphasis [ref=e101]: 设计
+              - text: 的广告作品属于智力成果,难以有客观统一的评价标准,因此...
+            - generic [ref=e102]:
+              - text: 山西隆诚忻州律师事务所
+              - generic [ref=e103]: 2020-4-17
+        - listitem [ref=e104]:
+          - link [ref=e106] [cursor=pointer]:
+            - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9Qr0suqluQVOM-ipsjV-5VgLo4ODtsd2WvB-2xs8y7UyYuI_s4nYIuv1TuTs74thOgXCsroeLMLMG6hXCrt90Kg4gdg-cVeLSEn6Nvew2bnSqQ9QOR7hyFNmQtmVbq1j0Tqf4TRQCxeOyWAlFAiiPVVsxPtshgJaPh39JyeFlrX1j3x9Nw6p-Fg..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+            - img [ref=e107]
+          - generic [ref=e108]:
+            - heading "兰台房建丨建设工程测绘合同审核要点" [level=3] [ref=e109]:
+              - link "兰台房建丨建设工程测绘合同审核要点" [ref=e110] [cursor=pointer]:
+                - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9Qr0suqluQVOM-ipsjV-5VgLo4ODtsd2WvB-2xs8y7UyYuI_s4nYIuv1TuTs74thOgXCsroeLMLMG6hXCrt90Kg4gdg-cVeLSEn6Nvew2bnSqQ9QOR7hyFNmQtmVbq1j0Tqf4TRQCxeOyWAlFAiiPVVsxPtshgJaPh39JyeFlrX1j3x9Nw6p-Fg..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+                - text: 兰台房建丨建设工程测绘
+                - emphasis [ref=e111]: 合同
+                - emphasis [ref=e112]: 审核要点
+            - paragraph [ref=e113]:
+              - text: 建设工程测绘
+              - emphasis [ref=e114]: 合同
+              - emphasis [ref=e115]: 审查要点
+              - text: 1.测绘工作的范围及内容条款建设工程... 测绘
+              - emphasis [ref=e116]: 合同
+              - text: 通常约定
+              - emphasis [ref=e117]: 知识产权归属
+              - text: 于发包人,测绘单位确保测绘过程...
+            - generic [ref=e118]:
+              - text: 兰台律师事务所
+              - generic [ref=e119]: 2024-2-27
+        - listitem [ref=e120]:
+          - link [ref=e122] [cursor=pointer]:
+            - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9qhAGxkwVtHNTJYvAXlRj3TWsQe1zBM0mmLzPdpXMSJOK5IU-wajihGUcvlq1uJjVhU6959-HNaOJ0mjvAiS9qwtnI8icNyEFECRUq5MMDogDSdbffGxCYyZufa0J0GWa3f_YTWOVC1XEu1OuZ9hnoDEVYPyoP3Av3iQyUcXM9QGFW6cwuUnkdA..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+            - img [ref=e123]
+          - generic [ref=e124]:
+            - heading "实务|计算机软件开发合同的审查要点" [level=3] [ref=e125]:
+              - link "实务|计算机软件开发合同的审查要点" [ref=e126] [cursor=pointer]:
+                - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9qhAGxkwVtHNTJYvAXlRj3TWsQe1zBM0mmLzPdpXMSJOK5IU-wajihGUcvlq1uJjVhU6959-HNaOJ0mjvAiS9qwtnI8icNyEFECRUq5MMDogDSdbffGxCYyZufa0J0GWa3f_YTWOVC1XEu1OuZ9hnoDEVYPyoP3Av3iQyUcXM9QGFW6cwuUnkdA..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+                - text: 实务|计算机软件开发
+                - emphasis [ref=e127]: 合同
+                - text: 的
+                - emphasis [ref=e128]: 审查要点
+            - paragraph [ref=e129]:
+              - text: 但实务中仍有部分案件适用
+              - emphasis [ref=e130]: 承揽合同
+              - text: 的规定进行
+              - emphasis [ref=e131]: 审理
+              - text: ",认为定作人... 在"
+              - emphasis [ref=e132]: 合同
+              - text: 中对开发成果中的
+              - emphasis [ref=e133]: 知识产权归属
+              - text: 进行约定显得尤为重要....
+            - generic [ref=e134]:
+              - text: 湘知知产
+              - generic [ref=e135]: 2023-10-18
+        - listitem [ref=e136]:
+          - link [ref=e138] [cursor=pointer]:
+            - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9hfJSHo53O7PptRg4lQ9cNKAD93vzhR17JHpAkdgvaXUdxpIlbK1xeTQWxhrKbIFSBVlclSfaL1aLUPi0ymsg8Qc31ngU3B_qpM2DmRDGcWr2tNqCfjMGp9y4aiFLvAqujIBQvOeaNSmoSB3OfBt6po3WHRKLAWb-zbExDNaS5XHS-e4Yz84xMA..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+            - img [ref=e139]
+          - generic [ref=e140]:
+            - heading "技术服务合同审查要点(一)" [level=3] [ref=e141]:
+              - link "技术服务合同审查要点(一)" [ref=e142] [cursor=pointer]:
+                - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9hfJSHo53O7PptRg4lQ9cNKAD93vzhR17JHpAkdgvaXUdxpIlbK1xeTQWxhrKbIFSBVlclSfaL1aLUPi0ymsg8Qc31ngU3B_qpM2DmRDGcWr2tNqCfjMGp9y4aiFLvAqujIBQvOeaNSmoSB3OfBt6po3WHRKLAWb-zbExDNaS5XHS-e4Yz84xMA..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+                - text: 技术服务
+                - emphasis [ref=e143]: 合同
+                - emphasis [ref=e144]: 审查要点
+                - text: (一)
+            - paragraph [ref=e145]:
+              - text: 不包括建设工程合同和
+              - emphasis [ref=e146]: 承揽合同
+              - text: .其中“特定技术问题”,是指需要运用科学技术
+              - emphasis [ref=e147]: 知识
+              - text: 解决专业技术工作中有关改进
+              - emphasis [ref=e148]: 产品
+              - text: 结构、改良工...
+            - generic [ref=e149]:
+              - text: 青时科技
+              - generic [ref=e150]: 2020-12-15
+        - listitem [ref=e151]:
+          - link [ref=e153] [cursor=pointer]:
+            - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9K8EvzloD-LoYmnbueejfY3dFdHOWiD1Epis8i9qPGr7gOuOW_ADe2crM_1YqRN1fB_WlP6jw4Q-Qt5VuabtvzmsixrKKzq35Z7hA521Gdqxb5bnXlBll1JQqLXwIggxM9xN9y4SJ79u3ARpqioqTUJrQ4WVJ3yTv4-j97rGchBNhlgeRt7bSzA..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+            - img [ref=e154]
+          - generic [ref=e155]:
+            - heading "OEM合同与ODM合同如何起草和审核#PG201915" [level=3] [ref=e156]:
+              - link "OEM合同与ODM合同如何起草和审核#PG201915" [ref=e157] [cursor=pointer]:
+                - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9K8EvzloD-LoYmnbueejfY3dFdHOWiD1Epis8i9qPGr7gOuOW_ADe2crM_1YqRN1fB_WlP6jw4Q-Qt5VuabtvzmsixrKKzq35Z7hA521Gdqxb5bnXlBll1JQqLXwIggxM9xN9y4SJ79u3ARpqioqTUJrQ4WVJ3yTv4-j97rGchBNhlgeRt7bSzA..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+                - text: OEM
+                - emphasis [ref=e158]: 合同
+                - text: 与ODM
+                - emphasis [ref=e159]: 合同
+                - text: 如何起草和
+                - emphasis [ref=e160]: 审核
+                - text: "#PG201915"
+            - paragraph [ref=e161]:
+              - text: OEM与ODM两种代工模式的异同 要起草或审核一份
+              - emphasis [ref=e162]: 协议
+              - text: ",首先要理解"
+              - emphasis [ref=e163]: 协议
+              - text: 所欲确定的商业模式,这是起草和
+              - emphasis [ref=e164]: 审查
+              - emphasis [ref=e165]: 协议
+              - text: 的基础工作...OEM模式下代工
+              - emphasis [ref=e166]: 合同
+              - text: 审核的要点 对于OME
+              - emphasis [ref=e167]: 合同
+              - text: ...ODM模式下代工
+              - emphasis [ref=e168]: 合同
+              - text: 审核的要点 由于ODM与OEM都是代工模式,其
+              - emphasis [ref=e169]: 审核要点
+              - text: 是共通的,除上述要点外...
+            - generic [ref=e170]:
+              - text: 白鹭法律热点
+              - generic [ref=e171]: 2019-9-29
+        - listitem [ref=e172]:
+          - link [ref=e174] [cursor=pointer]:
+            - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9sItG0YPo68-o9dmP0SB6fG1R02MIp1VRT0HmODeIT2xl5qIreqzoOuXpgnSBxzUJeCByQAszHQcVoImGCIpxRZ8Y1Jv9hJQFnl6gRZM_57GuH3Hi7KfCUQm6nt2xwrSR1xevaBP1mGcAZJ8zG3-u57skYgaaCu6DA2sXYE0dmnhQ_LeJW-Rhtg..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+            - img [ref=e175]
+          - generic [ref=e176]:
+            - heading "工程合同审查19个关键点指南" [level=3] [ref=e177]:
+              - link "工程合同审查19个关键点指南" [ref=e178] [cursor=pointer]:
+                - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9sItG0YPo68-o9dmP0SB6fG1R02MIp1VRT0HmODeIT2xl5qIreqzoOuXpgnSBxzUJeCByQAszHQcVoImGCIpxRZ8Y1Jv9hJQFnl6gRZM_57GuH3Hi7KfCUQm6nt2xwrSR1xevaBP1mGcAZJ8zG3-u57skYgaaCu6DA2sXYE0dmnhQ_LeJW-Rhtg..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+                - text: 工程
+                - emphasis [ref=e179]: 合同
+                - emphasis [ref=e180]: 审查
+                - text: 19个关键点指南
+            - paragraph [ref=e181]:
+              - text: 9、留置:用于保管合同、运输合同、加工
+              - emphasis [ref=e182]: 承揽合同
+              - text: ",债务人不履..."
+              - emphasis [ref=e183]: 知识产权归属
+              - text: 乙方,乙方授权甲方在一定范围内使用;(2)乙方...
+            - generic [ref=e184]:
+              - text: 广联达数字建筑供应链研究院
+              - generic [ref=e185]: 2022-10-29
+        - listitem [ref=e186]:
+          - link [ref=e188] [cursor=pointer]:
+            - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9bZSBteD3A0CZJNDJvxUcsmiJbUhWEFKf1fZ9PJ8skqF3Dk3cR6aGWlOcqr7Q3PQKgk8Wk3SZZHmTzOEDA9AgSdhvm81swzz6OKeT4bSUmAZQwbGKXgepV6ALtZEW7uz-ASFQOBh87uuLtHcqT1I-vvy9eOy61Lw9pU7FOhmN-np5LU3lqtPw9g..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+            - img [ref=e189]
+          - generic [ref=e190]:
+            - heading "掌握这11个要点,审核软件技术开发合同就像庖丁解牛那样容易!" [level=3] [ref=e191]:
+              - link "掌握这11个要点,审核软件技术开发合同就像庖丁解牛那样容易!" [ref=e192] [cursor=pointer]:
+                - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9bZSBteD3A0CZJNDJvxUcsmiJbUhWEFKf1fZ9PJ8skqF3Dk3cR6aGWlOcqr7Q3PQKgk8Wk3SZZHmTzOEDA9AgSdhvm81swzz6OKeT4bSUmAZQwbGKXgepV6ALtZEW7uz-ASFQOBh87uuLtHcqT1I-vvy9eOy61Lw9pU7FOhmN-np5LU3lqtPw9g..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+                - text: 掌握这11个
+                - emphasis [ref=e193]: 要点
+                - text: ","
+                - emphasis [ref=e194]: 审核
+                - text: 软件技术开发
+                - emphasis [ref=e195]: 合同
+                - text: 就像庖丁解牛那样容易!
+            - paragraph [ref=e196]:
+              - text: "网站建设/APP开发/软件开发合同的法律画像 作为一种常见的营销渠道,现在的公司通常喜欢建立门户网站发布自己想要公开的资讯...风险清单列表风险点实例 1. 风险点:开发期限、顺延及其责任的约定是否清晰 案例: 孙松松、山东蓝果网络科技发展有限公司"
+              - emphasis [ref=e197]: 承揽合同
+              - text: "纠纷 看点: 未考虑A..."
+            - generic [ref=e198]:
+              - text: 十点法务
+              - generic [ref=e199]: 2017-8-5
+        - listitem [ref=e200]:
+          - link [ref=e202] [cursor=pointer]:
+            - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9te8NASAU0Rh7MPmdNMTutSJ9AhYpWieDz2vtvnid1b3miS_LQ-TbHSQcWg6Jiiu1AY4otVmfwTrcpdqnIn1Bqo6Ijz1XrLxxnnkfcoRx7ngv3QcVA7DLb5z1AmWZU1olAoShMXtBYDOQRrNXD_S6x63MucZDQIKy081zYWfuJ-D6zvkPgoArRQ..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+            - img [ref=e203]
+          - generic [ref=e204]:
+            - heading "中招了吧?审核合同,这些内容要重点检查!" [level=3] [ref=e205]:
+              - link "中招了吧?审核合同,这些内容要重点检查!" [ref=e206] [cursor=pointer]:
+                - /url: /link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxWqTuIv-Rl25ZSfUIxAN5eCJ5l9OhUYrVqXa8Fplpd9te8NASAU0Rh7MPmdNMTutSJ9AhYpWieDz2vtvnid1b3miS_LQ-TbHSQcWg6Jiiu1AY4otVmfwTrcpdqnIn1Bqo6Ijz1XrLxxnnkfcoRx7ngv3QcVA7DLb5z1AmWZU1olAoShMXtBYDOQRrNXD_S6x63MucZDQIKy081zYWfuJ-D6zvkPgoArRQ..&type=2&query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C %E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C %E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9 %E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&token=AF671243754882D96E693D6DD201EF976F5C87D26A09B6FD
+                - text: 中招了吧?
+                - emphasis [ref=e207]: 审核
+                - emphasis [ref=e208]: 合同
+                - text: ",这些内容要"
+                - emphasis [ref=e209]: 重点
+                - text: 检查!
+            - paragraph [ref=e210]:
+              - emphasis [ref=e211]: 合同
+              - text: "双方的主体资格要合格 1、自然人: 满18岁了吗?有精神病吗?要求对方提供身份证号码和地址,因为重名的太多了...主体条款:写上当事人的名称和地址,其作用是 1、明确文书的送达地点,通讯地址变更应及时通知"
+              - emphasis [ref=e212]: 合同
+              - text: 的当事人; 2、考虑将来的诉讼地点...资信调查的基本方法 1、查验对方的 营业执照 、打听对方的信誉情况; 2、通过银行和行业协会查询对方的 信誉情况 ...
+            - generic [ref=e213]:
+              - text: 精鼎财税
+              - generic [ref=e214]: 2020-3-23
+      - generic [ref=e215]:
+        - generic [ref=e216]: "1"
+        - link "2" [ref=e217] [cursor=pointer]:
+          - /url: "?query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C+%E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C+%E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9+%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&s_from=input&type=2&page=2&ie=utf8"
+        - link "3" [ref=e218] [cursor=pointer]:
+          - /url: "?query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C+%E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C+%E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9+%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&s_from=input&type=2&page=3&ie=utf8"
+        - link "4" [ref=e219] [cursor=pointer]:
+          - /url: "?query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C+%E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C+%E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9+%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&s_from=input&type=2&page=4&ie=utf8"
+        - link "5" [ref=e220] [cursor=pointer]:
+          - /url: "?query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C+%E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C+%E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9+%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&s_from=input&type=2&page=5&ie=utf8"
+        - link "6" [ref=e221] [cursor=pointer]:
+          - /url: "?query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C+%E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C+%E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9+%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&s_from=input&type=2&page=6&ie=utf8"
+        - link "7" [ref=e222] [cursor=pointer]:
+          - /url: "?query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C+%E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C+%E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9+%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&s_from=input&type=2&page=7&ie=utf8"
+        - link "8" [ref=e223] [cursor=pointer]:
+          - /url: "?query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C+%E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C+%E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9+%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&s_from=input&type=2&page=8&ie=utf8"
+        - link "9" [ref=e224] [cursor=pointer]:
+          - /url: "?query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C+%E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C+%E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9+%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&s_from=input&type=2&page=9&ie=utf8"
+        - link "10" [ref=e225] [cursor=pointer]:
+          - /url: "?query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C+%E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C+%E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9+%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&s_from=input&type=2&page=10&ie=utf8"
+        - link "下一页" [ref=e226] [cursor=pointer]:
+          - /url: "?query=%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%90%88%E5%90%8C+%E6%89%BF%E6%8F%BD%E5%90%88%E5%90%8C+%E5%AE%A1%E6%9F%A5%E8%A6%81%E7%82%B9+%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%BD%92%E5%B1%9E&s_from=input&type=2&page=2&ie=utf8"
+        - generic [ref=e227]: 找到约215条结果
+  - generic [ref=e231]:
+    - generic [ref=e233]:
+      - textbox [ref=e234]: 产品设计合同 承揽合同 审查要点 知识产权归属
+      - link [ref=e235] [cursor=pointer]:
+        - /url: javascript:void(0)
+    - button "搜文章" [ref=e236] [cursor=pointer]
+  - generic [ref=e238]:
+    - link "搜索帮助" [ref=e239] [cursor=pointer]:
+      - /url: http://help.sogou.com/
+    - link "意见反馈及投诉" [ref=e240] [cursor=pointer]:
+      - /url: https://fankui.sogou.com/index.php/web/web/index/type/4
+    - text: © 2026 SOGOU.COM
+    - link "免责声明" [ref=e241] [cursor=pointer]:
+      - /url: http://www.sogou.com/docs/terms.htm
+    - link "隐私政策" [ref=e242] [cursor=pointer]:
+      - /url: http://corp.sogou.com/private.html
